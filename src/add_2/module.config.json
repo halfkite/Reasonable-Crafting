@@ -1,0 +1,7 @@
+{
+  "module_name": "minecraft-pack-template-add-2",
+  "description": "测试用02",
+  "support_version": "*",
+  "weight": 1,
+  "breaks": []
+}
