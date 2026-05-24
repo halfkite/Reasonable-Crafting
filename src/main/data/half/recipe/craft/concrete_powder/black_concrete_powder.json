@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {"tag":"half:concrete_powders"},
+    {"tag":"half:concrete_powders"},
+    {"tag":"half:concrete_powders"},
+    {"tag":"half:concrete_powders"},
+    {"tag":"half:concrete_powders"},
+    {"tag":"half:concrete_powders"},
+    {"tag":"half:concrete_powders"},
+    {"tag":"half:concrete_powders"},
+    {"tag":"half:black_dyes"}
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:black_concrete_powder"
+  }
+}
