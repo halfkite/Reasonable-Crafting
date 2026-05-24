@@ -1,0 +1,7 @@
+{
+  "set_name": "minecraft-pack-template-set-03",
+  "modules": [
+    "add_1",
+    "add_2"
+  ]
+}

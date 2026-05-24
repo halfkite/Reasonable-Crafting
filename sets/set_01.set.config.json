@@ -1,0 +1,9 @@
+{
+  "set_name": "minecraft-pack-template-set-01",
+  "description": "测试用01",
+  "modules": [
+    "add_1",
+    "add_2",
+    "add_3"
+  ]
+}
