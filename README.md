@@ -1,6 +1,6 @@
 # Reasonable Crafting 数据包介绍
 
-> **Minecraft 数据包** | 作者：half_kite | 适用版本：1.21+
+> **Minecraft 数据包** | 作者：half_kite | 数据包版本0.4 | 适用版本：1.21-1.21.1 |
 
 ---
 
@@ -14,15 +14,15 @@
 
 ## 🧱 楼梯合成优化 | Stair Recipes (`half_stairs`)
 
-**改变**：原版 6 个木板 → 4 个楼梯，改为 **3 个木板 → 6 个楼梯**，产出翻倍。
+**改变**：原版 6 个木板 → 4 个楼梯，改为 6 个木板 → 6 个楼梯。
 
-**Change**: Vanilla 6 planks → 4 stairs, now **3 planks → 6 stairs**, doubling the yield.
+**Change**: Vanilla 6 planks → 4 stairs, now **6 planks → 6 stairs**.
 
 **配方数量** | **Recipe count**：58 种楼梯（涵盖所有木材、石材、铜等）
 
 ```
-3 × 木板/材料 → 6 × 对应楼梯
-3 × planks/material → 6 × matching stairs
+6 × 木板/材料 → 6 × 对应楼梯
+6 × planks/material → 6 × matching stairs
 ```
 
 额外包含：蓝冰、浮冰、遮光玻璃的替代配方。
