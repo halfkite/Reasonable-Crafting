@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "wool",
+  "ingredients": [
+    {"tag": "half:black_dyes"},
+    {"tag": "minecraft:wool"}
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:black_wool"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:smelting",
+  "category": "building",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {"item":"minecraft:red_concrete_powder"},
+  "result": {"id":"minecraft:red_stained_glass"}
+}

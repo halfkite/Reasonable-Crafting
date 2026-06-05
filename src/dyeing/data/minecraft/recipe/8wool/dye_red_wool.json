@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "woosl",
+  "ingredients": [
+    {"tag": "minecraft:wool"},
+    {"tag": "minecraft:wool"},
+    {"tag": "minecraft:wool"},
+    {"tag": "minecraft:wool"},
+    {"tag": "minecraft:wool"},
+    {"tag": "minecraft:wool"},
+    {"tag": "minecraft:wool"},
+    {"tag": "minecraft:wool"},
+    {"tag": "half:red_dyes"}
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:red_wool"
+  }
+}

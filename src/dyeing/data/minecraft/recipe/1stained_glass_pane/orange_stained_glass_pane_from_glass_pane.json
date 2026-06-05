@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "stained_glass_pane1",
+  "ingredients": [
+    {"tag": "half:glass_panes"},
+    {"tag": "half:orange_dyes"}
+  ],
+  "result": {"count":1,"id":"minecraft:orange_stained_glass_pane"}
+}

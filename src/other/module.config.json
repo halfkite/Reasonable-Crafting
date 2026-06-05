@@ -1,0 +1,8 @@
+{
+  "module_name": "其他",
+  "description": "其他配方：杂项合成、切石机配方、简化合成、楼梯配方",
+  "support_version": "*",
+  "weight": 3,
+  "breaks": [],
+  "bindings": []
+}

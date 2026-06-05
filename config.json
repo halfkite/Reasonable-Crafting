@@ -1,23 +1,11 @@
 {
   "pack_name": "Reasonable Crafting",
-  "author": "half-kite",
-  "description": "Reasonable Crafting",
-  "version": "0.4",
+  "author": "half_kite",
+  "description": "合理合成 - 模块化版本",
+  "version": "1.0.0",
   "base_path": "./src",
   "sets_path": "./sets",
-  "type": "data",  
   "main_module": "main",
-  "file_mode": true,
-  "suggested_version": "1.21.1",
-  "version_modules": {
-    "version_add_1": {
-      "version": "1.21.1",
-      "strict": false
-    },
-    "version_add_2": {
-      "version": "1.21.2+",
-      "strict": false,
-      "target": "add_2"
-    }
-  }
+  "file_mode": false,
+  "suggested_version": "1.21.1"
 }

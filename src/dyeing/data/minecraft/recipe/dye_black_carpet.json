@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "carpet",
+  "ingredients": [
+    {"tag": "minecraft:wool_carpets"},
+    {"tag": "half:black_dyes"}
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:black_carpet"
+  }
+}

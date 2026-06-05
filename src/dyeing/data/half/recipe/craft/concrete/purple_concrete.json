@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "concrete_from_other_concrete",
+  "ingredients": [
+    {"tag":"half:concretes"},
+    {"tag":"half:concretes"},
+    {"tag":"half:concretes"},
+    {"tag":"half:concretes"},
+    {"tag":"half:concretes"},
+    {"tag":"half:concretes"},
+    {"tag":"half:concretes"},
+    {"tag":"half:concretes"},
+    {"tag":"half:purple_dyes"}
+  ],
+  "result": {"count":8,"id":"minecraft:purple_concrete"}
+}

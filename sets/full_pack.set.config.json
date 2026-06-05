@@ -1,0 +1,9 @@
+{
+  "set_name": "完整包",
+  "description": "包含所有模块的完整合理合成数据包",
+  "modules": [
+    "dyeing",
+    "furnace",
+    "other"
+  ]
+}

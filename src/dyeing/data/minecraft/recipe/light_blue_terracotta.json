@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "stained_terracotta",
+  "ingredients": [
+    {"tag": "minecraft:terracotta"},
+    {"tag": "minecraft:terracotta"},
+    {"tag": "minecraft:terracotta"},
+    {"tag": "minecraft:terracotta"},
+    {"tag": "minecraft:terracotta"},
+    {"tag": "minecraft:terracotta"},
+    {"tag": "minecraft:terracotta"},
+    {"tag": "minecraft:terracotta"},
+    {"tag": "half:light_blue_dyes"}
+  ],
+  "result": {"count": 8, "id": "minecraft:light_blue_terracotta"}
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "stained_glass",
+  "ingredients": [
+    { "tag": "half:glasses" },
+    { "tag": "half:glasses" },
+    { "tag": "half:glasses" },
+    { "tag": "half:glasses" },
+    { "tag": "half:glasses" },
+    { "tag": "half:glasses" },
+    { "tag": "half:glasses" },
+    { "tag": "half:glasses" },
+    { "item": "minecraft:potion" }
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:glass"
+  }
+}

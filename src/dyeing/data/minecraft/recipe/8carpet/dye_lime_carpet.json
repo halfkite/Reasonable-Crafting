@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "carpets",
+  "ingredients": [
+    {"tag": "minecraft:wool_carpets"},
+    {"tag": "minecraft:wool_carpets"},
+    {"tag": "minecraft:wool_carpets"},
+    {"tag": "minecraft:wool_carpets"},
+    {"tag": "minecraft:wool_carpets"},
+    {"tag": "minecraft:wool_carpets"},
+    {"tag": "minecraft:wool_carpets"},
+    {"tag": "minecraft:wool_carpets"},
+    {"tag": "half:lime_dyes"}
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:lime_carpet"
+  }
+}

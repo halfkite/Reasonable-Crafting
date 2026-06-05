@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "stained_glass",
+  "ingredients": [
+    {"tag": "half:glasses"},
+    {"tag": "half:glasses"},
+    {"tag": "half:glasses"},
+    {"tag": "half:glasses"},
+    {"tag": "half:glasses"},
+    {"tag": "half:glasses"},
+    {"tag": "half:glasses"},
+    {"tag": "half:glasses"},
+    {"tag": "half:light_gray_dyes"}
+  ],
+  "result": {"count":8,"id":"minecraft:light_gray_stained_glass"}
+}

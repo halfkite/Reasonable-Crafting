@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "stained_glass",
+  "ingredients": [
+    {"tag": "half:glasses"},
+    {"tag": "half:glasses"},
+    {"tag": "half:glasses"},
+    {"tag": "half:glasses"},
+    {"tag": "half:glasses"},
+    {"tag": "half:glasses"},
+    {"tag": "half:glasses"},
+    {"tag": "half:glasses"},
+    {"tag": "half:blue_dyes"}
+  ],
+  "result": {"count":8,"id":"minecraft:blue_stained_glass"}
+}

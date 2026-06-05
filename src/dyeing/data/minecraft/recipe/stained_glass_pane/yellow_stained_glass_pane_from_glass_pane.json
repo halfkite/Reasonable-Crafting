@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "stained_glass_pane",
+  "ingredients": [
+    {"tag": "half:glass_panes"},
+    {"tag": "half:glass_panes"},
+    {"tag": "half:glass_panes"},
+    {"tag": "half:glass_panes"},
+    {"tag": "half:glass_panes"},
+    {"tag": "half:glass_panes"},
+    {"tag": "half:glass_panes"},
+    {"tag": "half:glass_panes"},
+    {"tag": "half:yellow_dyes"}
+  ],
+  "result": {"count":8,"id":"minecraft:yellow_stained_glass_pane"}
+}

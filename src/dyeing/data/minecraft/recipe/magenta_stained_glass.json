@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "stained_glass",
+  "ingredients": [
+    {"tag": "half:glasses"},
+    {"tag": "half:glasses"},
+    {"tag": "half:glasses"},
+    {"tag": "half:glasses"},
+    {"tag": "half:glasses"},
+    {"tag": "half:glasses"},
+    {"tag": "half:glasses"},
+    {"tag": "half:glasses"},
+    {"tag": "half:magenta_dyes"}
+  ],
+  "result": {"count":8,"id":"minecraft:magenta_stained_glass"}
+}
