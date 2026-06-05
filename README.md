@@ -1,6 +1,6 @@
 # Reasonable Crafting 数据包介绍
 
-> **Minecraft 数据包** | 作者：half_kite | 数据包版本0.4 | 适用版本：1.21-1.21.1 |
+> **Minecraft 数据包** | 作者：half_kite | 数据包版本0.6 | 适用版本：1.21-，26.2 |
 
 ---
 
@@ -18,7 +18,7 @@
 
 **Change**: Vanilla 6 planks → 4 stairs, now **6 planks → 6 stairs**.
 
-**配方数量** | **Recipe count**：58 种楼梯（涵盖所有木材、石材、铜等）
+**配方数量** | **Recipe count**：66 种楼梯（涵盖所有木材、石材、铜等）
 
 ```
 6 × 木板/材料 → 6 × 对应楼梯
