@@ -1,6 +1,6 @@
 # Reasonable Crafting 数据包介绍
 
-> **Minecraft 数据包** | 作者：half_kite | 数据包版本0.6 | 适用版本：1.21-，26.2 |
+> **Minecraft 数据包** | 作者：half_kite | 数据包版本0.6 | 适用版本：1.21-26.2 |
 
 ---
 
