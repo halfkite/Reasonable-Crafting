@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "8concrete_from_other_concrete",
+  "ingredients": [
+    {"tag": "half:concretes"},
+    {"tag": "half:concretes"},
+    {"tag": "half:concretes"},
+    {"tag": "half:concretes"},
+    {"tag": "half:concretes"},
+    {"tag": "half:concretes"},
+    {"tag": "half:concretes"},
+    {"tag": "half:concretes"},
+    {"tag": "half:green_dyes"}
+  ],
+  "result": {"count":8,"id":"minecraft:green_concrete"}
+}
