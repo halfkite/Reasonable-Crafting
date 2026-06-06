@@ -1,6 +1,6 @@
 # Reasonable Crafting 数据包介绍
 
-> **Minecraft 数据包** | 作者：half_kite | 数据包版本0.4 | 适用版本：1.21-1.21.1 |
+> **Minecraft 数据包** | 作者：half_kite | 数据包版本0.6 | 适用版本：1.21-26.2 |
 
 ---
 
@@ -18,7 +18,7 @@
 
 **Change**: Vanilla 6 planks → 4 stairs, now **6 planks → 6 stairs**.
 
-**配方数量** | **Recipe count**：58 种楼梯（涵盖所有木材、石材、铜等）
+**配方数量** | **Recipe count**：66 种楼梯（涵盖所有木材、石材、铜等）
 
 ```
 6 × 木板/材料 → 6 × 对应楼梯
@@ -29,119 +29,26 @@
 
 ---
 
-## 🕯️ 蜡烛染色 | Candle Dyeing (`half_candle`)
+## 🎨 无序染色 | Shapeless Dyeing
 
-**新增**：直接用染料给蜡烛染色，无需工作台摆图案。
+蜡烛、玻璃、玻璃板、陶瓦、混凝土、混凝土粉末、羊毛、床 全部支持无序合成。
 
-单染：`1 蜡烛 + 1 染料 → 1 染色蜡烛`（16 色 × 1）
-批量：`8 蜡烛 + 1 染料 → 8 染色蜡烛`（16 色 × 1）
-
-**New**: Dye candles directly without crafting table patterns.
-
-Single: `1 candle + 1 dye → 1 dyed candle` (16 colors)
-Bulk: `8 candles + 1 dye → 8 dyed candles` (16 colors)
-
-**配方数量** | **Recipe count**：32
-
----
-
-## 🪟 玻璃染色 | Glass Dyeing (`half_glass`)
-
-**改变**：原版只能在固定位置摆放玻璃+染料，现在改为无序合成，且支持单染和批量两种模式。
-
-**Change**: Vanilla requires placing glass + dye in fixed positions. Now shapeless, supporting both single and bulk dyeing.
+Candles, glass, glass panes, terracotta, concrete, concrete powder, wool, beds — all shapeless.
 
 | 模式 | 配方 | 产出 |
 |------|------|------|
-| 批量染色玻璃 | 8 玻璃方块 + 1 染料 | 8 染色玻璃 |
-| 单染玻璃 | 1 玻璃方块 + 1 染料 | 1 染色玻璃 |
-| 批量染色玻璃板 | 8 玻璃板 + 1 染料 | 8 染色玻璃板 |
-| 单染玻璃板 | 1 玻璃板 + 1 染料 | 1 染色玻璃板 |
+| 单染 | 1 物品 + 1 染料 | 1 对应颜色物品 |
+| 批量 | 8 物品 + 1 染料 | 8 对应颜色物品 |
 
-**配方数量** | **Recipe count**：64（16 色 × 4 种模式）
+| Mode | Recipe | Output |
+|------|--------|--------|
+| Single | 1 item + 1 dye | 1 dyed item |
+| Bulk | 8 items + 1 dye | 8 dyed items |
+  
+ > 染料使用标签匹配，花朵、粉末等任意染料来源均可使用。
+ > Dyes use tag matching — any dye source (flowers, powders, etc.) works.
 
----
-
-## 🧶 羊毛染色 | Wool Dyeing (`half_wool`)
-
-**新增**：直接用染料给羊毛染色（原版只有白色羊毛可染）。
-
-单染：`1 羊毛 + 1 染料 → 1 染色羊毛`
-批量：`8 羊毛 + 1 染料 → 8 染色羊毛`
-
-**New**: Direct wool dyeing (vanilla only allows white wool dyeing).
-
-Single: `1 wool + 1 dye → 1 dyed wool`
-Bulk: `8 wool + 1 dye → 8 dyed wool`
-
-**配方数量** | **Recipe count**：32（16 色 × 2 种模式）
-
----
-
-## 🏠 地毯染色 | Carpet Dyeing (`half_carpet`)
-
-**新增**：直接用染料给地毯染色。
-
-单染：`1 地毯 + 1 染料 → 1 染色地毯`
-批量：`8 地毯 + 1 染料 → 8 染色地毯`
-
-**New**: Direct carpet dyeing with dyes.
-
-Single: `1 carpet + 1 dye → 1 dyed carpet`
-Bulk: `8 carpets + 1 dye → 8 dyed carpets`
-
-**配方数量** | **Recipe count**：32（16 色 × 2 种模式）
-
----
-
-## 🛏️ 床染色 | Bed Dyeing (`half_bed`)
-
-**新增**：直接用染料给床染色（原版只能用同色羊毛合成床）。
-
-`1 床 + 1 染料 → 1 染色床`
-
-**New**: Direct bed dyeing (vanilla only allows crafting beds with matching wool color).
-
-`1 bed + 1 dye → 1 dyed bed`
-
-**配方数量** | **Recipe count**：16（16 色）
-
----
-
-## 🎨 染料合成 | Dye Crafting (`half_dye`)
-
-**增强**：扩展了可混合合成的染料种类，使用标签匹配任意形式的染料来源（花、粉末等均可）。
-
-**Enhanced**: Extended dye mixing recipes using tags to match any dye source (flowers, powders, etc.).
-
-| 配方 | 原料 | 产出 |
-|------|------|------|
-| 青色染料 Cyan | 蓝 + 绿 | 2 |
-| 灰色染料 Gray | 黑 + 白 | 2 |
-| 淡蓝染料 Light Blue | 蓝 + 白 | 2 |
-| 淡灰染料 Light Gray | 黑 + 白 或 灰 + 白 | 2 × 2 |
-| 黄绿染料 Lime | 绿 + 白 | 2 |
-| 品红染料 Magenta | 蓝+红+白 / 蓝+红+粉 / 紫+粉 | 3 / 3 / 2 |
-| 橙色染料 Orange | 红 + 黄 | 2 |
-| 粉红染料 Pink | 红 + 白 | 2 |
-| 紫色染料 Purple | 蓝 + 红 | 2 |
-
-**配方数量** | **Recipe count**：12
-
----
-
-## 🟫 陶瓦染色 | Terracotta Dyeing (`half_terracotta`)
-
-**改变**：原版必须按固定图案摆放陶瓦+染料，现改为无序合成，且支持单染和批量两种模式。
-
-**Change**: Vanilla requires fixed pattern for terracotta dyeing. Now shapeless with single and bulk options.
-
-| 模式 | 配方 | 产出 |
-|------|------|------|
-| 批量 | 8 陶瓦 + 1 染料 | 8 染色陶瓦 |
-| 单染 | 1 陶瓦 + 1 染料 | 1 染色陶瓦 |
-
-**配方数量** | **Recipe count**：32（16 色 × 2 种模式）
+ **配方数量** | **Recipe count**：16 色 × 对应模式
 
 ---
 
@@ -150,11 +57,6 @@ Bulk: `8 carpets + 1 dye → 8 dyed carpets`
 **新增**：将方块分解回原材料，解决"合成太多无法回收"的问题。
 
 **New**: Decompose blocks back into raw materials.
-
-### 混凝土转换 | Concrete Conversion（16 色 × 2 = 32 配方）
-
-`8 混凝土 + 1 染料 → 8 染色混凝土`
-`8 混凝土粉末 + 1 染料 → 8 染色混凝土粉末`
 
 ### 杂项分解 | Misc Decomposition（19 配方）
 
@@ -195,7 +97,7 @@ Bulk: `8 carpets + 1 dye → 8 dyed carpets`
 
 **新增**：烧炼粗矿块可直接获得完整金属块，以及混凝土粉末烧成染色玻璃。
 
-**New**: Smelt raw ore blocks directly into metal blocks, and concrete powder into stained glass.
+**新**: Smelt raw ore blocks directly into metal blocks, 和 concrete powder into stained glass.
 
 | 原料 | 产物 | 经验 |
 |------|------|------|
@@ -205,14 +107,6 @@ Bulk: `8 carpets + 1 dye → 8 dyed carpets`
 | 16 色混凝土粉末 → 对应染色玻璃 | 0.1 XP × 16 |
 
 **配方数量** | **Recipe count**：19
-
----
-
-## 🏷️ 染料标签 | Dye Tags
-
-数据包定义了 16 种颜色的染料标签（`half:XXX_dyes`），每种标签包含对应颜色的花朵、粉末等所有形态的染料来源，使染色配方兼容各种染料形式。
-
-The datapack defines 16 color dye tags (`half:XXX_dyes`), each containing all dye forms of that color (flowers, powders, etc.), making dyeing recipes compatible with any dye source.
 
 ---
 
@@ -234,8 +128,3 @@ The datapack defines 16 color dye tags (`half:XXX_dyes`), each containing all dy
 | 烧炼回收 Scrap | 19 | 烧炼回收 |
 | 简化合成 Simplify | 2 | 简化优化 |
 | **总计 Total** | **358** | |
-
----
-
-> 所有染色配方使用 `half:XXX_dyes` 物品标签，同时兼容原版染料、花朵、墨囊等任意染料来源。  
-> All dyeing recipes use `half:XXX_dyes` item tags, compatible with vanilla dyes, flowers, ink sacs, and any dye source.
