@@ -1,5 +1,8 @@
-# 数据包架构来源 https://github.com/XeKr-Dev/minecraft-pack-builder 数据包自动构建以便更好地维护和下载数据包
-# 如果对本数据包有特殊的版本需要 可以在此链接自动构建需要的数据包内容 https://build.xekr.dev/#/halfkite/Reasonable-Crafting
+# 数据包架构来源 
+https://github.com/XeKr-Dev/minecraft-pack-builder
+数据包自动构建以便更好地维护和下载数据包
+
+如果对本数据包有特殊的版本需要 可以在此链接自动构建需要的数据包内容 https://build.xekr.dev/#/halfkite/Reasonable-Crafting
 
 # Reasonable Crafting 数据包介绍(介绍文本由AI生成)
 
