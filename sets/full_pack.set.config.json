@@ -4,6 +4,8 @@
   "modules": [
     "dyeing",
     "furnace",
-    "other"
+    "decompose",
+    "stairs",
+    "easy_craft"
   ]
 }
