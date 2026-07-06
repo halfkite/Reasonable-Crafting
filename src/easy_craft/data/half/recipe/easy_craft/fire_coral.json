@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "coral",
+  "ingredients": [
+    {"item":"minecraft:fire_coral"}
+  ],
+  "result": {"id":"minecraft:dead_fire_coral"}
+}

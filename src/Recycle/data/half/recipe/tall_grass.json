@@ -1,9 +1,0 @@
-{
- "type":"minecraft:crafting_shaped",
- "category": "misc",
- "key":{"A":{"item":"minecraft:short_grass"}},
- "pattern":["A A",
-            "AAA",
-            " A "],
- "result":{"count": 8,"id":"minecraft:tall_grass"}
-}

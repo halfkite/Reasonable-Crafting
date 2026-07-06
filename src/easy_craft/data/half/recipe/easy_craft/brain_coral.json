@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "coral",
+  "ingredients": [
+    {"item":"minecraft:brain_coral"}
+  ],
+  "result": {"id":"minecraft:dead_brain_coral"}
+}
