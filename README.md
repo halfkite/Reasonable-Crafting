@@ -6,7 +6,7 @@ https://github.com/XeKr-Dev/minecraft-pack-builder
 
 # Reasonable Crafting 数据包介绍(介绍文本由AI生成)
 
-> **Minecraft 数据包** | 作者：half_kite | 数据包版本0.7.3 | 适用版本：1.21-26.2 |
+> **Minecraft 数据包** | 作者：half_kite | 数据包版本0.7.4 | 适用版本：1.21-26.2 |
 
 ---
 
