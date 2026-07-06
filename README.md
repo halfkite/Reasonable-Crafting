@@ -6,7 +6,7 @@ https://github.com/XeKr-Dev/minecraft-pack-builder
 
 # Reasonable Crafting 数据包介绍(介绍文本由AI生成)
 
-> **Minecraft 数据包** | 作者：half_kite | 数据包版本0.6 | 适用版本：1.21-26.2 |
+> **Minecraft 数据包** | 作者：half_kite | 数据包版本0.7.2 | 适用版本：1.21-26.2 |
 
 ---
 
@@ -99,9 +99,36 @@ Candles, glass, glass panes, terracotta, concrete, concrete powder, wool, beds �
 
 ---
 
+## ⛏️ 原矿合成 | Ore Synthesis (`data/half/recipe/Ore/`)
+
+**新增**：将原材料重新合成为矿石方块，让不可再生的矿石也能通过合成获得。支持多种原材料路径（粗矿、锭、块），浅层和深层矿石均可合成，同种矿石的配方在配方书中归为一组。
+
+**New**: Craft ore blocks from raw materials, making non-renewable ores obtainable through crafting. Multiple material paths supported (raw ore, ingot, block), both stone and deepslate variants available. Recipes for the same ore type are grouped together in the recipe book.
+
+### 矿石合成 | Ore Crafting（30 配方）
+
+| 产物 Ore | 配方路径 | 图案 Pattern |
+|----------|----------|:---:|
+| 煤矿石 Coal Ore | 煤 ×4 + 石头/深板岩 ×4 | 十字 |
+| 铁矿石 Iron Ore | 粗铁/铁锭 ×4 + 石头/深板岩 ×4 | 十字 |
+| 金矿石 Gold Ore | 粗金/金锭 ×4 + 石头/深板岩 ×4 | 十字 |
+| 铜矿石 Copper Ore | 粗铜×2 + 粗铜块×2 + 石头/深板岩（锭版：铜锭+铜块） | 对角十字 |
+| 钻石矿石 Diamond Ore | 钻石 ×4 + 石头/深板岩 ×4 | 十字 |
+| 绿宝石矿石 Emerald Ore | 绿宝石 ×4 + 石头/深板岩 ×4 | 十字 |
+| 青金石矿石 Lapis Ore | 青金石块 + 石头/深板岩 ×4 | 十字 |
+| 红石矿石 Redstone Ore | 红石粉 ×8 + 石头/深板岩（包围） | 环状 |
+| 下界石英矿石 Nether Quartz | 下界石英 ×4 + 下界岩 ×4 | 十字 |
+| 下界金矿石 Nether Gold Ore | 金粒×6 + 金锭×2 + 下界岩 | 满格 |
+| 粗铁/粗金/粗铜 | 锭 + 石头/深板岩 → 对应粗矿 |
+| 粗铁块/粗金块/粗铜块 | 块 + 石头/深板岩 ×4 → 对应粗矿块 |
+
+**配方数量** | **Recipe count**：30
+
+---
+
 ## 🔥 烧炼回收 | Smelting Recovery (`data/half/recipe/scrap/`)
 
-**新增**：烧炼粗矿块可直接获得完整金属块，以及混凝土粉末烧成染色玻璃。
+**新增**：烧炼粗矿块可直接获得对应的块（熔炉、高炉都可以），以及混凝土粉末烧成染色玻璃。
 
 **新**: Smelt raw ore blocks directly into metal blocks, 和 concrete powder into stained glass.
 
@@ -131,6 +158,7 @@ Candles, glass, glass panes, terracotta, concrete, concrete powder, wool, beds �
 | 混凝土转换 Concrete | 32 | 无序转换 |
 | 杂项分解 Misc | 19 | 分解回收 |
 | 切石分解 Stonecutting | 8 | 切石回收 |
+| 原矿合成 Ore Synthesis | 30 | 合成矿石 |
 | 烧炼回收 Scrap | 19 | 烧炼回收 |
 | 简化合成 Simplify | 2 | 简化优化 |
-| **总计 Total** | **358** | |
+| **总计 Total** | **388** | |
