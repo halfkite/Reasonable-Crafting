@@ -4,10 +4,7 @@
  "group": "raw_gold",
  "ingredients":[
     {"item":"minecraft:gold_ingot"},
-    [
-        {"item":"minecraft:stone"},
-        {"item":"minecraft:deepslate"}
-    ]
+    {"tag":"half:ore_raw"}
     ],
  "result":{"id":"minecraft:raw_gold"}
 }

@@ -3,7 +3,7 @@
  "category": "Ore",
  "group": "raw_gold_block",
  "key":{
-    "A":[{"item":"minecraft:stone"},{"item":"minecraft:deepslate"}],
+    "A":{"tag":"half:ore_raw"},
     "B":{"item":"minecraft:gold_block"}
     },
  "pattern":[" A ","ABA"," A "],

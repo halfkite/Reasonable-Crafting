@@ -4,7 +4,7 @@
  "group": "raw_iron",
  "ingredients":[
     {"item":"minecraft:iron_ingot"},
-    [{"item":"minecraft:stone"},{"item":"minecraft:deepslate"}]
+    {"tag":"half:ore_raw"}
     ],
  "result":{"id":"minecraft:raw_iron"}
 }
