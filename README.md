@@ -4,7 +4,7 @@ https://github.com/XeKr-Dev/minecraft-pack-builder
 
 如果对本数据包有特殊的版本需要 可以在此链接自动构建需要的数据包内容 https://build.xekr.dev/#/halfkite/Reasonable-Crafting
 
-# Reasonable Crafting 数据包介绍(介绍文本由AI生成)
+# Reasonable Crafting （RCraft）数据包介绍(介绍文本由AI生成)
 
 > **Minecraft 数据包** | 作者：half_kite | 数据包版本0.8.0 | 适用版本：1.21-26.2         | 时间:2026-0706-2243 |
 
@@ -143,6 +143,40 @@ Candles, glass, glass panes, terracotta, concrete, concrete powder, wool, beds �
 
 ---
 
+## 🪸 珊瑚配方 | Coral Recipes
+
+**新增**：5 种珊瑚（管、脑纹、气泡、火、鹿角）的失活、合成、分解配方。
+
+**New**: Dead, synthesis, and decomposition recipes for all 5 coral types.
+
+### 珊瑚失活 | Dead Coral（15 配方）
+
+将活珊瑚转化为失活版本，支持珊瑚块、珊瑚扇、珊瑚（小）三种形态。
+
+| 输入 | 输出 |
+|------|------|
+| 珊瑚块 | 失活珊瑚块 |
+| 珊瑚扇 | 失活珊瑚扇 |
+| 珊瑚 | 失活珊瑚 |
+
+### 珊瑚分解 | Coral Decomposition（20 配方）
+
+珊瑚块分解为珊瑚扇或珊瑚（小），失活同理。
+
+| 输入 | 输出 | 比例 |
+|------|------|:---:|
+| 活珊瑚块 | 活珊瑚扇 | 3→27 |
+| 活珊瑚块 | 活珊瑚 | 2→18 |
+| 失活珊瑚块 | 失活珊瑚扇 | 3→27 |
+| 失活珊瑚块 | 失活珊瑚 | 2→18 |
+
+> 珊瑚分解模块需同时选中"再生"和"分解"模块后自动启用。
+> Coral decomposition auto-enables when both Recycle and Decompose modules are selected.
+
+**配方数量** | **Recipe count**：15（失活）+ 5（合成）+ 20（分解）= 40
+
+---
+
 ## 📊 统计汇总 | Summary
 
 | 模块 Module | 配方数 Recipes | 类型 Type |
@@ -161,4 +195,7 @@ Candles, glass, glass panes, terracotta, concrete, concrete powder, wool, beds �
 | 原矿合成 Ore Synthesis | 30 | 合成矿石 |
 | 烧炼回收 Scrap | 19 | 烧炼回收 |
 | 简化合成 Simplify | 2 | 简化优化 |
-| **总计 Total** | **388** | |
+| 珊瑚失活 Dead Coral | 15 | 失活转化 |
+| 珊瑚合成 Coral Synthesis | 5 | 9→1合成 |
+| 珊瑚分解 Coral Decomp | 20 | 分解回收 |
+| **总计 Total** | **433** | |
