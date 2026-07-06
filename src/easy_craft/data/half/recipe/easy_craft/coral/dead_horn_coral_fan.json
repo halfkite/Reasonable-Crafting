@@ -1,6 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
   "category": "coral",
+  "group": "dead_coral",
   "ingredients": [
     {"item":"minecraft:horn_coral_fan"}
   ],
