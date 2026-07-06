@@ -3,7 +3,7 @@
  "category": "Ore",
  "group": "raw_copper",
  "ingredients":[
-    {"item":"minecraft:copper"},
+    {"item":"minecraft:copper_ingot"},
     {"tag":"half:ore_raw"}
     ],
  "result":{"id":"minecraft:raw_copper"}
