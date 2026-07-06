@@ -1,10 +1,10 @@
 {
  "type":"minecraft:crafting_shapeless",
  "category": "Ore",
- "group": "raw_gold",
+ "group": "raw_copper",
  "ingredients":[
-    {"item":"minecraft:gold_ingot"},
+    {"item":"minecraft:copper_block"},
     {"tag":"half:ore_raw"}
     ],
- "result":{"id":"minecraft:raw_gold"}
+ "result":{"id":"minecraft:raw_copper"}
 }
