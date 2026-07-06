@@ -1,0 +1,8 @@
+{
+  "module_name": "原矿、粗矿合成",
+  "description": "原矿合成配方：煤矿合成、铁矿合成、金矿合成、红石矿合成、绿宝石矿合成、钻石矿合成",
+  "support_version": "*",
+  "weight": 6,
+  "breaks": [],
+  "bindings": []
+}

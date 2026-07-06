@@ -1,0 +1,11 @@
+{
+ "type":"minecraft:crafting_shaped",
+ "category": "Ore",
+ "group": "nether_quartz_ore",
+ "key":{
+    "A":{"item":"minecraft:quartz"},
+    "B":{"item":"minecraft:netherrack"}
+    },
+ "pattern":[" A ","ABA"," A "],
+ "result":{"id":"minecraft:nether_quartz_ore"}
+}

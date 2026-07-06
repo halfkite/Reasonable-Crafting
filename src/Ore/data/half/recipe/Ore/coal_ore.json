@@ -1,0 +1,11 @@
+{
+ "type":"minecraft:crafting_shaped",
+ "category": "Ore",
+ "group": "coal_ore",
+ "key":{
+    "A":{"item":"minecraft:coal"},
+    "B":{"item":"minecraft:stone"}
+    },
+ "pattern":[" A ","ABA"," A "],
+ "result":{"id":"minecraft:coal_ore"}
+}

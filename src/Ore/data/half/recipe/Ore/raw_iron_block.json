@@ -1,0 +1,11 @@
+{
+ "type":"minecraft:crafting_shaped",
+ "category": "Ore",
+ "group": "raw_iron_block",
+ "key":{
+    "A":[{"item":"minecraft:stone"},{"item":"minecraft:deepslate"}],
+    "B":{"item":"minecraft:iron_block"}
+    },
+ "pattern":[" A ","ABA"," A "],
+ "result":{"id":"minecraft:raw_iron_block"}
+}

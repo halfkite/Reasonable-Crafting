@@ -1,0 +1,11 @@
+{
+ "type":"minecraft:crafting_shaped",
+ "category": "Ore",
+ "group": "iron_ore",
+ "key":{
+    "A":{"item":"minecraft:raw_iron"},
+    "B":{"item":"minecraft:stone"}
+    },
+ "pattern":[" A ","ABA"," A "],
+ "result":{"id":"minecraft:iron_ore"}
+}

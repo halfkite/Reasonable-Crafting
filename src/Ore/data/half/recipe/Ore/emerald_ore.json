@@ -1,0 +1,11 @@
+{
+ "type":"minecraft:crafting_shaped",
+ "category": "Ore",
+ "group": "emerald_ore",
+ "key":{
+    "A":{"item":"minecraft:emerald"},
+    "B":{"item":"minecraft:stone"}
+    },
+ "pattern":[" A ","ABA"," A "],
+ "result":{"id":"minecraft:emerald_ore"}
+}

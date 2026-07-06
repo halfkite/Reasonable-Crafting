@@ -1,0 +1,11 @@
+{
+ "type":"minecraft:crafting_shaped",
+ "category": "Ore",
+ "group": "emerald_ore",
+ "key":{
+ "A":{"item":"minecraft:emerald"},
+ "B":{"item":"minecraft:deepslate"}
+    },
+ "pattern":[" A ","ABA"," A "],
+ "result":{"id":"minecraft:deepslate_emerald_ore"}
+}

@@ -1,0 +1,11 @@
+{
+ "type":"minecraft:crafting_shaped",
+ "category": "Ore",
+ "group": "gold_ore",
+ "key":{
+ "A":{"item":"minecraft:gold_ingot"},
+ "B":{"item":"minecraft:deepslate"}
+    },
+ "pattern":[" A ","ABA"," A "],
+ "result":{"id":"minecraft:deepslate_gold_ore"}
+}

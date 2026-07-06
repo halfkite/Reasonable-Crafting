@@ -1,5 +1,5 @@
 {
-  "module_name": "熔炉",
+  "module_name": "熔炉烧炼",
   "description": "熔炉烧炼配方：粗金属块烧炼、混凝土粉末烧成玻璃",
   "support_version": "*",
   "weight": 2,

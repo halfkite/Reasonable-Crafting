@@ -1,0 +1,11 @@
+{
+ "type":"minecraft:crafting_shaped",
+ "category": "Ore",
+ "group": "redstone_ore",
+ "key":{
+    "A":{"item":"minecraft:redstone"},
+    "B":{"item":"minecraft:stone"}
+    },
+ "pattern":["AAA","ABA","AAA"],
+ "result":{"id":"minecraft:redstone_ore"}
+}
