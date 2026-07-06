@@ -2,7 +2,7 @@
   "pack_name": "Reasonable Crafting",
   "author": "half_kite",
   "description": "合理合成 - 模块化版本",
-  "version": "0.7.3",
+  "version": "0.8.0",
   "base_path": "./src",
   "sets_path": "./sets",
   "main_module": "main",
