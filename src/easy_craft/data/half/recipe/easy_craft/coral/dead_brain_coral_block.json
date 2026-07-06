@@ -1,7 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "category": "coral",
-  "group": "dead_coral",
+  "category": "coral_block",
+  "group": "dead_coral_block",
   "ingredients": [
     {"item":"minecraft:brain_coral_block"}
   ],
