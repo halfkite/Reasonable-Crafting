@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:prismarine"
+  },
+  "result": {
+    "count": 4,
+    "id": "minecraft:prismarine_shard"
+  },
+  "_note": "用切石机将(海晶石)分解为(海晶碎片)"
+}

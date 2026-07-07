@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "bed",
+  "ingredients": [
+    {
+      "tag": "minecraft:beds"
+    },
+    {
+      "tag": "half:light_blue_dyes"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:light_blue_bed"
+  },
+  "_note": "用(淡蓝色染料)将床染成(淡蓝色床)×1"
+}

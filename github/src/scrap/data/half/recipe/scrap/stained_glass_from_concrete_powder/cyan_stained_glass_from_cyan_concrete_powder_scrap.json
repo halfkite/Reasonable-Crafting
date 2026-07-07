@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "building",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "minecraft:cyan_concrete_powder"
+  },
+  "result": {
+    "id": "minecraft:cyan_stained_glass"
+  },
+  "_note": "用(青色混凝土粉末)烧炼成(青色染色玻璃)"
+}

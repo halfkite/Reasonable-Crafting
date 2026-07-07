@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "1stained_glass",
+  "ingredients": [
+    {
+      "tag": "half:glasses"
+    },
+    {
+      "tag": "half:red_dyes"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:red_stained_glass"
+  },
+  "_note": "用(红色染料)将玻璃染成(红色染色玻璃)×1"
+}

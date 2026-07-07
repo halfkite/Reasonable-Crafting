@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:honeycomb_block"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:honeycomb"
+  },
+  "_note": "用(honeycomb block)分解为(蜜脾)×4"
+}

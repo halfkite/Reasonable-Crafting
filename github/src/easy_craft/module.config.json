@@ -1,0 +1,8 @@
+{
+  "module_name": "其他懒人配方",
+  "description": "懒人配方：简化合成（堆肥桶4→2、紫水晶块+玻璃→遮光玻璃）",
+  "support_version": "*",
+  "weight": 5,
+  "breaks": [],
+  "bindings": []
+}

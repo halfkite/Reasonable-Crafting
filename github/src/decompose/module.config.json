@@ -1,0 +1,8 @@
+{
+  "module_name": "拆解",
+  "description": "拆解配方：杂项分解、切石机分解、冰块与遮光玻璃配方",
+  "support_version": "*",
+  "weight": 3,
+  "breaks": [],
+  "bindings": []
+}

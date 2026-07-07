@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:quartz_block"
+  },
+  "result": {
+    "count": 4,
+    "id": "minecraft:quartz"
+  },
+  "_note": "用切石机将(石英块)分解为(下界石英)"
+}

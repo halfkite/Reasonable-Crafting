@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "Ore",
+  "group": "coal_ore",
+  "key": {
+    "A": {
+      "item": "minecraft:coal"
+    },
+    "B": {
+      "item": "minecraft:deepslate"
+    }
+  },
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "result": {
+    "id": "minecraft:deepslate_coal_ore"
+  },
+  "_note": "用(煤炭)和(深板岩)合成(深层煤矿石)"
+}
