@@ -6,5 +6,6 @@
     },
  "pattern":["A",
             "A"],
- "result":{"id":"minecraft:tall_grass"}
+ "result":{"id":"minecraft:tall_grass"},
+ "_note": "这里写说明，代替#注释"
 }
