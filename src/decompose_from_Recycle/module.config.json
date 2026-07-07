@@ -1,6 +1,6 @@
 {
-  "module_name": "珊瑚分解",
-  "description": "珊瑚块分解为珊瑚和珊瑚扇（需同时选中再生和分解模块）",
+  "module_name": "再生的分解",
+  "description": "再生内容的再分解（需同时选中再生和分解模块）",
   "support_version": "*",
   "weight": 8,
   "breaks": [],

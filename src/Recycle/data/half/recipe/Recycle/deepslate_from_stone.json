@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "misc",
+  "category": "Recycle_deepslate",
   "key": {
     "A": {
       "item": "minecraft:stone"
@@ -12,7 +12,7 @@
     "AAA"
   ],
   "result": {
-    "count": 4,
+    "count": 5,
     "id": "minecraft:deepslate"
   },
   "_note": "用(石头)合成(深板岩)×4"

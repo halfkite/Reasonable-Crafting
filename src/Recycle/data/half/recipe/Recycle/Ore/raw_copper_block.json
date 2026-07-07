@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "Ore",
+  "category": "Recycle_Ore",
   "group": "raw_copper_block",
   "key": {
     "A": {
