@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "building",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "minecraft:gray_concrete_powder"
+  },
+  "result": {
+    "id": "minecraft:gray_stained_glass"
+  },
+  "_note": "用(灰色混凝土粉末)烧炼成(灰色染色玻璃)"
+}

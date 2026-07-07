@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "coral",
+  "group": "dead_coral_from_block",
+  "ingredients": [
+    {
+      "item": "minecraft:dead_brain_coral_block"
+    },
+    {
+      "item": "minecraft:dead_brain_coral_block"
+    }
+  ],
+  "result": {
+    "count": 18,
+    "id": "minecraft:dead_brain_coral"
+  },
+  "_note": "用2个(失活的脑纹珊瑚块)分解为(失活的脑纹珊瑚)×18"
+}

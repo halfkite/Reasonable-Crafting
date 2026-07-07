@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "stained_glass_pane",
+  "ingredients": [
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:light_blue_dyes"
+    }
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:light_blue_stained_glass_pane"
+  },
+  "_note": "用(淡蓝色染料)将玻璃板染成(淡蓝色染色玻璃板)×8"
+}

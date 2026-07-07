@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "carpets",
+  "ingredients": [
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "half:blue_dyes"
+    }
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:blue_carpet"
+  },
+  "_note": "用(蓝色染料)将地毯染成(蓝色地毯)×8"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 9.0,
+  "ingredient": {
+    "item": "minecraft:raw_gold_block"
+  },
+  "result": {
+    "id": "minecraft:gold_block"
+  },
+  "_note": "用(粗金块)烧炼成(金块)"
+}

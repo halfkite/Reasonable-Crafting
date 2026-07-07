@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "coral",
+  "group": "coral_block",
+  "key": {
+    "#": {
+      "tag": "half:fire_corals"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "id": "minecraft:fire_coral_block"
+  },
+  "_note": "用(fire corals)合成(火珊瑚块)×1"
+}

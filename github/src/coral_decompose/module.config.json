@@ -1,0 +1,9 @@
+{
+  "module_name": "珊瑚分解",
+  "description": "珊瑚块分解为珊瑚和珊瑚扇（需同时选中再生和分解模块）",
+  "support_version": "*",
+  "weight": 8,
+  "breaks": [],
+  "bindings": ["Recycle", "decompose"],
+  "requires": ["Recycle", "decompose"]
+}

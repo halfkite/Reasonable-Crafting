@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "8concrete_from_other_concrete",
+  "ingredients": [
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:orange_dyes"
+    }
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:orange_concrete"
+  },
+  "_note": "用(橙色染料)将(混凝土)染成(橙色混凝土)×8"
+}

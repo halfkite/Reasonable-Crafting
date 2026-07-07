@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "building",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "minecraft:magenta_concrete_powder"
+  },
+  "result": {
+    "id": "minecraft:magenta_stained_glass"
+  },
+  "_note": "用(品红色混凝土粉末)烧炼成(品红色染色玻璃)"
+}

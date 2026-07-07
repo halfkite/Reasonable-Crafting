@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "stained_glass_pane1",
+  "ingredients": [
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:yellow_dyes"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:yellow_stained_glass_pane"
+  },
+  "_note": "用(黄色染料)将玻璃板染成(黄色染色玻璃板)×1"
+}

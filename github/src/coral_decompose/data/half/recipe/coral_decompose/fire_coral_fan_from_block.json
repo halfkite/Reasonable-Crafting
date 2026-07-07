@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "coral",
+  "group": "coral_fan_from_block",
+  "ingredients": [
+    {
+      "item": "minecraft:fire_coral_block"
+    },
+    {
+      "item": "minecraft:fire_coral_block"
+    },
+    {
+      "item": "minecraft:fire_coral_block"
+    }
+  ],
+  "result": {
+    "count": 27,
+    "id": "minecraft:fire_coral_fan"
+  },
+  "_note": "用3个(火珊瑚块)分解为(火珊瑚扇)×27"
+}

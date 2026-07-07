@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:bricks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:brick"
+  },
+  "_note": "用(红砖块)分解为(红砖)×4"
+}
