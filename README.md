@@ -6,7 +6,15 @@ https://github.com/XeKr-Dev/minecraft-pack-builder
 
 # Reasonable Crafting （RCraft）数据包介绍(介绍文本由AI生成)
 
+<<<<<<< HEAD
 > **Minecraft 数据包** | 作者：half_kite | 数据包版本0.8.0 | 适用版本：1.21-26.2          | 时间:2026-0707-1032 |
+=======
+<<<<<<< HEAD
+> **Minecraft 数据包** | 作者：half_kite | 数据包版本0.7.4 | 适用版本：1.21-26.2           | 时间:2026-0706-2315 |
+=======
+> **Minecraft 数据包** | 作者：half_kite | 数据包版本0.7.4 | 适用版本：1.21-26.2         | 时间:2026-0706-2313 |
+>>>>>>> 6d0da4b283af718faaa1a7c648344b9f3f269e07
+>>>>>>> 69cbcb66f4984f589ae3d3cdaa8f99f6371b596e
 
 ---
 
