@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "building",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "minecraft:green_concrete_powder"
+  },
+  "result": {
+    "id": "minecraft:green_stained_glass"
+  },
+  "_note": "用(绿色混凝土粉末)烧炼成(绿色染色玻璃)"
+}

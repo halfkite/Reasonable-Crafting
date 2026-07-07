@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    [
+      {
+        "tag": "half:glasses"
+      }
+    ],
+    {
+      "item": "minecraft:amethyst_block"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:tinted_glass"
+  },
+  "_note": "用(玻璃)和(紫水晶块)合成(遮光玻璃)×2"
+}

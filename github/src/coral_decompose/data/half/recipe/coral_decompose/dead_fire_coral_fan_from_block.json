@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "coral",
+  "group": "dead_coral_fan_from_block",
+  "ingredients": [
+    {
+      "item": "minecraft:dead_fire_coral_block"
+    },
+    {
+      "item": "minecraft:dead_fire_coral_block"
+    },
+    {
+      "item": "minecraft:dead_fire_coral_block"
+    }
+  ],
+  "result": {
+    "count": 27,
+    "id": "minecraft:dead_fire_coral_fan"
+  },
+  "_note": "用3个(失活的火珊瑚块)分解为(失活的火珊瑚扇)×27"
+}

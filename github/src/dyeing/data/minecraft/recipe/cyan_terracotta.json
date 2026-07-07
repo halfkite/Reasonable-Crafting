@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "stained_terracotta",
+  "ingredients": [
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "half:cyan_dyes"
+    }
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:cyan_terracotta"
+  },
+  "_note": "用(青色染料)将陶瓦染成(青色陶瓦)×8"
+}

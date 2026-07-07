@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:polished_andesite"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:polished_andesite_stairs"
+  },
+  "_note": "用6个(磨制安山岩)合成(磨制安山岩楼梯)"
+}

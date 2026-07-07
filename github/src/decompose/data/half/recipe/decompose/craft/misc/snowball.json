@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:snow_block"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:snowball"
+  },
+  "_note": "用(snow block)分解为(雪球)×4"
+}

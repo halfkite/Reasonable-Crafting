@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "wool",
+  "ingredients": [
+    {
+      "tag": "half:gray_dyes"
+    },
+    {
+      "tag": "minecraft:wool"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:gray_wool"
+  },
+  "_note": "用(灰色染料)将羊毛染成(灰色羊毛)×1"
+}

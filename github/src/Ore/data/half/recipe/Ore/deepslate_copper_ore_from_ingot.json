@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "Ore",
+  "group": "copper_ore",
+  "key": {
+    "A": {
+      "item": "minecraft:copper_ingot"
+    },
+    "B": {
+      "item": "minecraft:copper_block"
+    },
+    "C": {
+      "item": "minecraft:deepslate"
+    }
+  },
+  "pattern": [
+    " A ",
+    "BCB",
+    " A "
+  ],
+  "result": {
+    "id": "minecraft:deepslate_copper_ore"
+  },
+  "_note": "用(铜锭)和(copper block)和(深板岩)合成(深层铜矿石)"
+}

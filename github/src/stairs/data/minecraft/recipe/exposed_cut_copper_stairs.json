@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:exposed_cut_copper"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:exposed_cut_copper_stairs"
+  },
+  "_note": "用6个(斑驳的切制铜块)合成(斑驳的切制铜楼梯)"
+}

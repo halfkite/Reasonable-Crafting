@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "coral_block",
+  "group": "dead_coral_block",
+  "ingredients": [
+    {
+      "item": "minecraft:horn_coral_block"
+    }
+  ],
+  "result": {
+    "id": "minecraft:dead_horn_coral_block"
+  },
+  "_note": "用(鹿角珊瑚块)合成(失活的鹿角珊瑚块)×1"
+}
