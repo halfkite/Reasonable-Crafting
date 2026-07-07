@@ -1,8 +1,0 @@
-{
-  "module_name": "楼梯",
-  "description": "楼梯配方：所有类型的楼梯合成配方（6木板→6楼梯）",
-  "support_version": "*",
-  "weight": 4,
-  "breaks": [],
-  "bindings": []
-}

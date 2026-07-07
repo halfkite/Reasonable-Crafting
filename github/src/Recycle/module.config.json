@@ -1,8 +1,0 @@
-{
-  "module_name": "再生",
-  "description": "再生配方：珊瑚合成、植物回收等配方",
-  "support_version": "*",
-  "weight": 7,
-  "breaks": [],
-  "bindings": []
-}
