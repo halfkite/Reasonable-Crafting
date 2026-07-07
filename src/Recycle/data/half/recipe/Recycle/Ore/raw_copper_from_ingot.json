@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "category": "Ore",
+  "category": "Recycle_Ore",
   "group": "raw_copper",
   "ingredients": [
     {

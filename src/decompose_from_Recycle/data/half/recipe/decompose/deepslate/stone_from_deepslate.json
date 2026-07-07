@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "decompose_deepslate",
+  "key": {
+    "A": {
+      "item": "minecraft:stone"
+    }
+  },
+  "pattern": [
+    " A ",
+    "AAA",
+    " A "
+  ],
+  "result": {
+    "count": 9,
+    "id": "minecraft:stone"
+  },
+  "_note": "用(深板岩)分解为(石头)×4"
+}
