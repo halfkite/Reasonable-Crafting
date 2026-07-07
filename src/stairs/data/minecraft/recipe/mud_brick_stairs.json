@@ -2,8 +2,18 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
-    "#": {"item":"minecraft:mud_bricks"}
+    "#": {
+      "item": "minecraft:mud_bricks"
+    }
   },
-  "pattern": ["#  ","## ","###"],
-  "result": {"count":6,"id":"minecraft:mud_brick_stairs"}
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:mud_brick_stairs"
+  },
+  "_note": "用6个(泥砖)合成(泥砖楼梯)"
 }

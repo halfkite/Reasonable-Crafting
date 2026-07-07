@@ -1,5 +1,11 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {"item":"minecraft:sandstone"},
-  "result": {"count":4,"id":"minecraft:sand"}
+  "ingredient": {
+    "item": "minecraft:sandstone"
+  },
+  "result": {
+    "count": 4,
+    "id": "minecraft:sand"
+  },
+  "_note": "用切石机将(砂岩)分解为(沙子)"
 }

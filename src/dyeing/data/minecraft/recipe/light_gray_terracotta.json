@@ -3,15 +3,37 @@
   "category": "building",
   "group": "stained_terracotta",
   "ingredients": [
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "half:light_gray_dyes"}
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "half:light_gray_dyes"
+    }
   ],
-  "result": {"count": 8, "id": "minecraft:light_gray_terracotta"}
+  "result": {
+    "count": 8,
+    "id": "minecraft:light_gray_terracotta"
+  },
+  "_note": "用(淡灰色染料)将陶瓦染成(淡灰色陶瓦)×8"
 }

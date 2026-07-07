@@ -3,10 +3,22 @@
   "category": "building",
   "key": {
     "#": [
-      {"item":"minecraft:purpur_block"},
-      {"item":"minecraft:purpur_pillar"}
+      {
+        "item": "minecraft:purpur_block"
+      },
+      {
+        "item": "minecraft:purpur_pillar"
+      }
     ]
   },
-  "pattern": ["#  ","## ","###"],
-  "result": {"count":6,"id":"minecraft:purpur_stairs"}
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:purpur_stairs"
+  },
+  "_note": "用6个(紫珀块)合成(紫珀楼梯)"
 }

@@ -2,7 +2,13 @@
   "type": "minecraft:crafting_shapeless",
   "category": "building",
   "ingredients": [
-    {"item":"minecraft:red_sandstone"}
+    {
+      "item": "minecraft:red_sandstone"
+    }
   ],
-  "result": {"count":4,"id":"minecraft:red_sand"}
+  "result": {
+    "count": 4,
+    "id": "minecraft:red_sand"
+  },
+  "_note": "用(红砂岩)分解为(红沙)×4"
 }

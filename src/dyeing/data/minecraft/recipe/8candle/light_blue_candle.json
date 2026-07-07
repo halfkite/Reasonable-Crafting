@@ -3,18 +3,37 @@
   "category": "misc",
   "group": "dyed_candles",
   "ingredients": [
-    {"tag": "minecraft:candles"},
-    {"tag": "minecraft:candles"},
-    {"tag": "minecraft:candles"},
-    {"tag": "minecraft:candles"},
-    {"tag": "minecraft:candles"},
-    {"tag": "minecraft:candles"},
-    {"tag": "minecraft:candles"},
-    {"tag": "minecraft:candles"},
-    {"tag": "half:light_blue_dyes"}
+    {
+      "tag": "minecraft:candles"
+    },
+    {
+      "tag": "minecraft:candles"
+    },
+    {
+      "tag": "minecraft:candles"
+    },
+    {
+      "tag": "minecraft:candles"
+    },
+    {
+      "tag": "minecraft:candles"
+    },
+    {
+      "tag": "minecraft:candles"
+    },
+    {
+      "tag": "minecraft:candles"
+    },
+    {
+      "tag": "minecraft:candles"
+    },
+    {
+      "tag": "half:light_blue_dyes"
+    }
   ],
   "result": {
     "count": 8,
     "id": "minecraft:light_blue_candle"
-  }
+  },
+  "_note": "用(淡蓝色染料)将蜡烛染成(淡蓝色蜡烛)×8"
 }

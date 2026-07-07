@@ -3,8 +3,17 @@
   "category": "coral",
   "group": "coral_block",
   "key": {
-    "#": {"tag":"half:bubble_corals"}
+    "#": {
+      "tag": "half:bubble_corals"
+    }
   },
-  "pattern": ["###","###","###"],
-  "result": {"id":"minecraft:bubble_coral_block"}
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "id": "minecraft:bubble_coral_block"
+  },
+  "_note": "用(bubble corals)合成(气泡珊瑚块)×1"
 }

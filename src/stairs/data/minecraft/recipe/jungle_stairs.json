@@ -3,8 +3,18 @@
   "category": "building",
   "group": "wooden_stairs",
   "key": {
-    "#": {"item":"minecraft:jungle_planks"}
+    "#": {
+      "item": "minecraft:jungle_planks"
+    }
   },
-  "pattern": ["#  ","## ","###"],
-  "result": {"count":6,"id":"minecraft:jungle_stairs"}
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:jungle_stairs"
+  },
+  "_note": "用6个(丛林木木板)合成(丛林木楼梯)"
 }

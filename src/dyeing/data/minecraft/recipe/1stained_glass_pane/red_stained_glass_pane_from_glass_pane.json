@@ -3,8 +3,16 @@
   "category": "building",
   "group": "stained_glass_pane1",
   "ingredients": [
-    {"tag": "half:glass_panes"},
-    {"tag": "half:red_dyes"}
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:red_dyes"
+    }
   ],
-  "result": {"count":1,"id":"minecraft:red_stained_glass_pane"}
+  "result": {
+    "count": 1,
+    "id": "minecraft:red_stained_glass_pane"
+  },
+  "_note": "用(红色染料)将玻璃板染成(红色染色玻璃板)×1"
 }

@@ -3,9 +3,19 @@
   "category": "coral",
   "group": "dead_coral_fan_from_block",
   "ingredients": [
-    {"item":"minecraft:dead_bubble_coral_block"},
-    {"item":"minecraft:dead_bubble_coral_block"},
-    {"item":"minecraft:dead_bubble_coral_block"}
+    {
+      "item": "minecraft:dead_bubble_coral_block"
+    },
+    {
+      "item": "minecraft:dead_bubble_coral_block"
+    },
+    {
+      "item": "minecraft:dead_bubble_coral_block"
+    }
   ],
-  "result": {"count":27,"id":"minecraft:dead_bubble_coral_fan"}
+  "result": {
+    "count": 27,
+    "id": "minecraft:dead_bubble_coral_fan"
+  },
+  "_note": "用3个(失活的气泡珊瑚块)分解为(失活的气泡珊瑚扇)×27"
 }

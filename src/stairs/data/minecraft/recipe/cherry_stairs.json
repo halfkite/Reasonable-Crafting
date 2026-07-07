@@ -3,8 +3,18 @@
   "category": "building",
   "group": "wooden_stairs",
   "key": {
-    "#": {"item":"minecraft:cherry_planks"}
+    "#": {
+      "item": "minecraft:cherry_planks"
+    }
   },
-  "pattern": ["#  ","## ","###"],
-  "result": {"count":6,"id":"minecraft:cherry_stairs"}
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:cherry_stairs"
+  },
+  "_note": "用6个(樱花木木板)合成(樱花木楼梯)"
 }

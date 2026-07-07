@@ -3,8 +3,18 @@
   "category": "building",
   "group": "wooden_stairs",
   "key": {
-    "#": {"item":"minecraft:birch_planks"}
+    "#": {
+      "item": "minecraft:birch_planks"
+    }
   },
-  "pattern": ["#  ","## ","###"],
-  "result": {"count":6,"id":"minecraft:birch_stairs"}
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:birch_stairs"
+  },
+  "_note": "用6个(白桦木木板)合成(白桦木楼梯)"
 }

@@ -3,8 +3,16 @@
   "category": "coral",
   "group": "dead_coral_from_block",
   "ingredients": [
-    {"item":"minecraft:dead_tube_coral_block"},
-    {"item":"minecraft:dead_tube_coral_block"}
+    {
+      "item": "minecraft:dead_tube_coral_block"
+    },
+    {
+      "item": "minecraft:dead_tube_coral_block"
+    }
   ],
-  "result": {"count":18,"id":"minecraft:dead_tube_coral"}
+  "result": {
+    "count": 18,
+    "id": "minecraft:dead_tube_coral"
+  },
+  "_note": "用2个(失活的管珊瑚块)分解为(失活的管珊瑚)×18"
 }

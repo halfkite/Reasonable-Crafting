@@ -2,8 +2,18 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
-    "#": {"item":"minecraft:diorite"}
+    "#": {
+      "item": "minecraft:diorite"
+    }
   },
-  "pattern": ["#  ","## ","###"],
-  "result": {"count":6,"id":"minecraft:diorite_stairs"}
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:diorite_stairs"
+  },
+  "_note": "用6个(闪长岩)合成(闪长岩楼梯)"
 }

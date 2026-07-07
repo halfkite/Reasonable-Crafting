@@ -1,11 +1,22 @@
 {
- "type":"minecraft:crafting_shaped",
- "category": "Ore",
- "group": "iron_ore",
- "key":{
- "A":{"item":"minecraft:raw_iron"},
- "B":{"item":"minecraft:deepslate"}
+  "type": "minecraft:crafting_shaped",
+  "category": "Ore",
+  "group": "iron_ore",
+  "key": {
+    "A": {
+      "item": "minecraft:raw_iron"
     },
- "pattern":[" A ","ABA"," A "],
- "result":{"id":"minecraft:deepslate_iron_ore"}
+    "B": {
+      "item": "minecraft:deepslate"
+    }
+  },
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "result": {
+    "id": "minecraft:deepslate_iron_ore"
+  },
+  "_note": "用(粗铁)和(深板岩)合成(深层铁矿石)"
 }

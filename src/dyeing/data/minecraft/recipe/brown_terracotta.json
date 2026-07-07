@@ -3,15 +3,37 @@
   "category": "building",
   "group": "stained_terracotta",
   "ingredients": [
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "half:brown_dyes"}
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "half:brown_dyes"
+    }
   ],
-  "result": {"count": 8, "id": "minecraft:brown_terracotta"}
+  "result": {
+    "count": 8,
+    "id": "minecraft:brown_terracotta"
+  },
+  "_note": "用(棕色染料)将陶瓦染成(棕色陶瓦)×8"
 }

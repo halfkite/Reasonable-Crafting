@@ -2,8 +2,18 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
-    "#": {"item":"minecraft:granite"}
+    "#": {
+      "item": "minecraft:granite"
+    }
   },
-  "pattern": ["#  ","## ","###"],
-  "result": {"count":6,"id":"minecraft:granite_stairs"}
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:granite_stairs"
+  },
+  "_note": "用6个(花岗岩)合成(花岗岩楼梯)"
 }

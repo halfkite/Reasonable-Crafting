@@ -3,8 +3,16 @@
   "category": "building",
   "group": "1stained_glass",
   "ingredients": [
-    {"tag": "half:glasses"},
-    {"tag": "half:gray_dyes"}
+    {
+      "tag": "half:glasses"
+    },
+    {
+      "tag": "half:gray_dyes"
+    }
   ],
-  "result": {"count":1,"id":"minecraft:gray_stained_glass"}
+  "result": {
+    "count": 1,
+    "id": "minecraft:gray_stained_glass"
+  },
+  "_note": "用(灰色染料)将玻璃染成(灰色染色玻璃)×1"
 }

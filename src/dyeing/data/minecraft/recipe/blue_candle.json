@@ -3,11 +3,16 @@
   "category": "misc",
   "group": "dyed_candle",
   "ingredients": [
-    {"tag": "minecraft:candles"},
-    {"tag": "half:blue_dyes"}
+    {
+      "tag": "minecraft:candles"
+    },
+    {
+      "tag": "half:blue_dyes"
+    }
   ],
   "result": {
     "count": 1,
     "id": "minecraft:blue_candle"
-  }
+  },
+  "_note": "用(蓝色染料)将蜡烛染成(蓝色蜡烛)×1"
 }

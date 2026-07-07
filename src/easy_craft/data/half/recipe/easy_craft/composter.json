@@ -2,8 +2,18 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
-    "#": {"tag":"minecraft:planks"}
+    "#": {
+      "tag": "minecraft:planks"
+    }
   },
-  "pattern": ["# #","# #","###"],
-  "result": {"count":2,"id":"minecraft:composter"}
+  "pattern": [
+    "# #",
+    "# #",
+    "###"
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:composter"
+  },
+  "_note": "合成(堆肥桶)×2"
 }

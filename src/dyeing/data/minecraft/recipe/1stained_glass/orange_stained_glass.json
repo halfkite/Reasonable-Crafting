@@ -3,8 +3,16 @@
   "category": "building",
   "group": "1stained_glass",
   "ingredients": [
-    {"tag": "half:glasses"},
-    {"tag": "half:orange_dyes"}
+    {
+      "tag": "half:glasses"
+    },
+    {
+      "tag": "half:orange_dyes"
+    }
   ],
-  "result": {"count":1,"id":"minecraft:orange_stained_glass"}
+  "result": {
+    "count": 1,
+    "id": "minecraft:orange_stained_glass"
+  },
+  "_note": "用(橙色染料)将玻璃染成(橙色染色玻璃)×1"
 }

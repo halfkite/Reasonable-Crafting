@@ -3,6 +3,11 @@
   "category": "building",
   "cookingtime": 200,
   "experience": 0.1,
-  "ingredient": {"item":"minecraft:lime_concrete_powder"},
-  "result": {"id":"minecraft:lime_stained_glass"}
+  "ingredient": {
+    "item": "minecraft:lime_concrete_powder"
+  },
+  "result": {
+    "id": "minecraft:lime_stained_glass"
+  },
+  "_note": "用(黄绿色混凝土粉末)烧炼成(黄绿色染色玻璃)"
 }

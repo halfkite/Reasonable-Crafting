@@ -3,11 +3,16 @@
   "category": "misc",
   "group": "magenta_dye",
   "ingredients": [
-    {"tag": "half:purple_dyes"},
-    {"tag": "half:pink_dyes"}
+    {
+      "tag": "half:purple_dyes"
+    },
+    {
+      "tag": "half:pink_dyes"
+    }
   ],
   "result": {
     "count": 2,
     "id": "minecraft:magenta_dye"
-  }
+  },
+  "_note": "用(紫色染料)和(粉红色染料)合成(品红色染料)×2"
 }

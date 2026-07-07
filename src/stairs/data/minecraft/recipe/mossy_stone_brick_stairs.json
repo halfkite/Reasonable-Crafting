@@ -2,8 +2,18 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
-    "#": {"item":"minecraft:mossy_stone_bricks"}
+    "#": {
+      "item": "minecraft:mossy_stone_bricks"
+    }
   },
-  "pattern": ["#  ","## ","###"],
-  "result": {"count":6,"id":"minecraft:mossy_stone_brick_stairs"}
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:mossy_stone_brick_stairs"
+  },
+  "_note": "用6个(苔石砖)合成(苔石砖楼梯)"
 }

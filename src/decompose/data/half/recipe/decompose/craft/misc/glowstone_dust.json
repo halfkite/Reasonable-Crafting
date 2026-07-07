@@ -2,7 +2,13 @@
   "type": "minecraft:crafting_shapeless",
   "category": "building",
   "ingredients": [
-    {"item":"minecraft:glowstone"}
+    {
+      "item": "minecraft:glowstone"
+    }
   ],
-  "result": {"count":4,"id":"minecraft:glowstone_dust"}
+  "result": {
+    "count": 4,
+    "id": "minecraft:glowstone_dust"
+  },
+  "_note": "用(glowstone)分解为(荧石粉)×4"
 }

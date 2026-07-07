@@ -2,8 +2,17 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
-    "#": {"item":"minecraft:blaze_powder"}
+    "#": {
+      "item": "minecraft:blaze_powder"
+    }
   },
-  "pattern": ["#","#"],
-  "result": {"count":1,"id":"minecraft:blaze_rod"}
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:blaze_rod"
+  },
+  "_note": "用(烈焰粉)分解为(烈焰棒)×1"
 }

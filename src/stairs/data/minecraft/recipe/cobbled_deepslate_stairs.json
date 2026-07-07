@@ -2,8 +2,18 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
-    "#": {"item":"minecraft:cobbled_deepslate"}
+    "#": {
+      "item": "minecraft:cobbled_deepslate"
+    }
   },
-  "pattern": ["#  ","## ","###"],
-  "result": {"count":6,"id":"minecraft:cobbled_deepslate_stairs"}
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:cobbled_deepslate_stairs"
+  },
+  "_note": "用6个(深板岩圆石)合成(深板岩圆石楼梯)"
 }

@@ -2,8 +2,18 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
-    "#": {"item":"minecraft:cobblestone"}
+    "#": {
+      "item": "minecraft:cobblestone"
+    }
   },
-  "pattern": ["#  ","## ","###"],
-  "result": {"count":6,"id":"minecraft:cobblestone_stairs"}
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:cobblestone_stairs"
+  },
+  "_note": "用6个(圆石)合成(圆石楼梯)"
 }

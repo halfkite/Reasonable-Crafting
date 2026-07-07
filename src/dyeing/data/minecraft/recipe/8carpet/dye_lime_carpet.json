@@ -3,18 +3,37 @@
   "category": "building",
   "group": "carpets",
   "ingredients": [
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "half:lime_dyes"}
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "half:lime_dyes"
+    }
   ],
   "result": {
     "count": 8,
     "id": "minecraft:lime_carpet"
-  }
+  },
+  "_note": "用(黄绿色染料)将地毯染成(黄绿色地毯)×8"
 }

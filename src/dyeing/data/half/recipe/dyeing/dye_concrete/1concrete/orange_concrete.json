@@ -3,8 +3,16 @@
   "category": "building",
   "group": "1concrete_from_other_concrete",
   "ingredients": [
-    {"tag": "half:concretes"},
-    {"tag": "half:orange_dyes"}
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:orange_dyes"
+    }
   ],
-  "result": {"count": 1, "id": "minecraft:orange_concrete"}
+  "result": {
+    "count": 1,
+    "id": "minecraft:orange_concrete"
+  },
+  "_note": "用(橙色染料)将(混凝土)染成(橙色混凝土)×1"
 }

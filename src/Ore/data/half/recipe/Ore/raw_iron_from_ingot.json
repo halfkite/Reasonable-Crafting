@@ -1,10 +1,17 @@
 {
- "type":"minecraft:crafting_shapeless",
- "category": "Ore",
- "group": "raw_iron",
- "ingredients":[
-    {"item":"minecraft:iron_ingot"},
-    {"tag":"half:ore_raw"}
-    ],
- "result":{"id":"minecraft:raw_iron"}
+  "type": "minecraft:crafting_shapeless",
+  "category": "Ore",
+  "group": "raw_iron",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "tag": "half:ore_raw"
+    }
+  ],
+  "result": {
+    "id": "minecraft:raw_iron"
+  },
+  "_note": "用(铁锭)和(ore raw)合成(粗铁)"
 }

@@ -3,18 +3,37 @@
   "category": "misc",
   "group": "dyed_candles",
   "ingredients": [
-    {"tag": "minecraft:candles"},
-    {"tag": "minecraft:candles"},
-    {"tag": "minecraft:candles"},
-    {"tag": "minecraft:candles"},
-    {"tag": "minecraft:candles"},
-    {"tag": "minecraft:candles"},
-    {"tag": "minecraft:candles"},
-    {"tag": "minecraft:candles"},
-    {"tag": "half:magenta_dyes"}
+    {
+      "tag": "minecraft:candles"
+    },
+    {
+      "tag": "minecraft:candles"
+    },
+    {
+      "tag": "minecraft:candles"
+    },
+    {
+      "tag": "minecraft:candles"
+    },
+    {
+      "tag": "minecraft:candles"
+    },
+    {
+      "tag": "minecraft:candles"
+    },
+    {
+      "tag": "minecraft:candles"
+    },
+    {
+      "tag": "minecraft:candles"
+    },
+    {
+      "tag": "half:magenta_dyes"
+    }
   ],
   "result": {
     "count": 8,
     "id": "minecraft:magenta_candle"
-  }
+  },
+  "_note": "用(品红色染料)将蜡烛染成(品红色蜡烛)×8"
 }

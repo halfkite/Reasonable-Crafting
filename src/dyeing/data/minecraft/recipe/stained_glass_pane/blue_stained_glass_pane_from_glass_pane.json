@@ -3,15 +3,37 @@
   "category": "building",
   "group": "stained_glass_pane",
   "ingredients": [
-    {"tag": "half:glass_panes"},
-    {"tag": "half:glass_panes"},
-    {"tag": "half:glass_panes"},
-    {"tag": "half:glass_panes"},
-    {"tag": "half:glass_panes"},
-    {"tag": "half:glass_panes"},
-    {"tag": "half:glass_panes"},
-    {"tag": "half:glass_panes"},
-    {"tag": "half:blue_dyes"}
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:blue_dyes"
+    }
   ],
-  "result": {"count":8,"id":"minecraft:blue_stained_glass_pane"}
+  "result": {
+    "count": 8,
+    "id": "minecraft:blue_stained_glass_pane"
+  },
+  "_note": "用(蓝色染料)将玻璃板染成(蓝色染色玻璃板)×8"
 }

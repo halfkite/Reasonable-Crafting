@@ -2,8 +2,18 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
-    "#": {"item":"minecraft:polished_tuff"}
+    "#": {
+      "item": "minecraft:polished_tuff"
+    }
   },
-  "pattern": ["#  ","## ","###"],
-  "result": {"count":6,"id":"minecraft:polished_tuff_stairs"}
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:polished_tuff_stairs"
+  },
+  "_note": "用6个(磨制凝灰岩)合成(磨制凝灰岩楼梯)"
 }

@@ -2,8 +2,18 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
-    "#": {"item":"minecraft:bamboo_mosaic"}
+    "#": {
+      "item": "minecraft:bamboo_mosaic"
+    }
   },
-  "pattern": ["#  ","## ","###"],
-  "result": {"count":6,"id":"minecraft:bamboo_mosaic_stairs"}
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:bamboo_mosaic_stairs"
+  },
+  "_note": "用6个(竹马赛克)合成(竹马赛克楼梯)"
 }

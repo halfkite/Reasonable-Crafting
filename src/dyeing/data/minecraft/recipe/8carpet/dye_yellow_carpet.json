@@ -3,18 +3,37 @@
   "category": "building",
   "group": "carpets",
   "ingredients": [
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "half:yellow_dyes"}
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "half:yellow_dyes"
+    }
   ],
   "result": {
     "count": 8,
     "id": "minecraft:yellow_carpet"
-  }
+  },
+  "_note": "用(黄色染料)将地毯染成(黄色地毯)×8"
 }

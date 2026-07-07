@@ -2,8 +2,18 @@
   "type": "minecraft:crafting_shaped",
   "category": "building",
   "key": {
-    "#": {"item":"minecraft:end_stone_bricks"}
+    "#": {
+      "item": "minecraft:end_stone_bricks"
+    }
   },
-  "pattern": ["#  ","## ","###"],
-  "result": {"count":6,"id":"minecraft:end_stone_brick_stairs"}
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:end_stone_brick_stairs"
+  },
+  "_note": "用6个(末地石砖)合成(末地石砖楼梯)"
 }

@@ -2,7 +2,13 @@
   "type": "minecraft:crafting_shapeless",
   "category": "building",
   "ingredients": [
-    {"item":"minecraft:melon"}
+    {
+      "item": "minecraft:melon"
+    }
   ],
-  "result": {"count":9,"id":"minecraft:melon_slice"}
+  "result": {
+    "count": 9,
+    "id": "minecraft:melon_slice"
+  },
+  "_note": "用(melon)分解为(西瓜片)×9"
 }

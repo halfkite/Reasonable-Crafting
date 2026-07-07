@@ -3,15 +3,37 @@
   "category": "building",
   "group": "stained_terracotta",
   "ingredients": [
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "half:lime_dyes"}
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "half:lime_dyes"
+    }
   ],
-  "result": {"count": 8, "id": "minecraft:lime_terracotta"}
+  "result": {
+    "count": 8,
+    "id": "minecraft:lime_terracotta"
+  },
+  "_note": "用(黄绿色染料)将陶瓦染成(黄绿色陶瓦)×8"
 }

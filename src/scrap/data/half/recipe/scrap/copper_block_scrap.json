@@ -3,6 +3,11 @@
   "category": "misc",
   "cookingtime": 200,
   "experience": 6.3,
-  "ingredient": {"item":"minecraft:raw_copper_block"},
-  "result": {"id":"minecraft:copper_block"}
+  "ingredient": {
+    "item": "minecraft:raw_copper_block"
+  },
+  "result": {
+    "id": "minecraft:copper_block"
+  },
+  "_note": "用(粗铜块)烧炼成(copper block)"
 }

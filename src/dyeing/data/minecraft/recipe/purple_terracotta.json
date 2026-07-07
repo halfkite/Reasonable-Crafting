@@ -3,15 +3,37 @@
   "category": "building",
   "group": "stained_terracotta",
   "ingredients": [
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "half:purple_dyes"}
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "half:purple_dyes"
+    }
   ],
-  "result": {"count": 8, "id": "minecraft:purple_terracotta"}
+  "result": {
+    "count": 8,
+    "id": "minecraft:purple_terracotta"
+  },
+  "_note": "用(紫色染料)将陶瓦染成(紫色陶瓦)×8"
 }

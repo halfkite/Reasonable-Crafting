@@ -3,15 +3,37 @@
   "category": "building",
   "group": "8concrete_from_other_concrete",
   "ingredients": [
-    {"tag": "half:concretes"},
-    {"tag": "half:concretes"},
-    {"tag": "half:concretes"},
-    {"tag": "half:concretes"},
-    {"tag": "half:concretes"},
-    {"tag": "half:concretes"},
-    {"tag": "half:concretes"},
-    {"tag": "half:concretes"},
-    {"tag": "half:red_dyes"}
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:red_dyes"
+    }
   ],
-  "result": {"count":8,"id":"minecraft:red_concrete"}
+  "result": {
+    "count": 8,
+    "id": "minecraft:red_concrete"
+  },
+  "_note": "用(红色染料)将(混凝土)染成(红色混凝土)×8"
 }

@@ -1,5 +1,11 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {"item":"minecraft:nether_bricks"},
-  "result": {"count":4,"id":"minecraft:nether_brick"}
+  "ingredient": {
+    "item": "minecraft:nether_bricks"
+  },
+  "result": {
+    "count": 4,
+    "id": "minecraft:nether_brick"
+  },
+  "_note": "用切石机将(下界砖块)分解为(下界砖)"
 }

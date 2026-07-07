@@ -2,7 +2,13 @@
   "type": "minecraft:crafting_shapeless",
   "category": "building",
   "ingredients": [
-    {"item":"minecraft:nether_bricks"}
+    {
+      "item": "minecraft:nether_bricks"
+    }
   ],
-  "result": {"count":4,"id":"minecraft:nether_brick"}
+  "result": {
+    "count": 4,
+    "id": "minecraft:nether_brick"
+  },
+  "_note": "用(下界砖块)分解为(下界砖)×4"
 }

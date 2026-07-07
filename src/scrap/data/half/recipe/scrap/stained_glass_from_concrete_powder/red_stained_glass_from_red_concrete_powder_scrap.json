@@ -3,6 +3,11 @@
   "category": "building",
   "cookingtime": 200,
   "experience": 0.1,
-  "ingredient": {"item":"minecraft:red_concrete_powder"},
-  "result": {"id":"minecraft:red_stained_glass"}
+  "ingredient": {
+    "item": "minecraft:red_concrete_powder"
+  },
+  "result": {
+    "id": "minecraft:red_stained_glass"
+  },
+  "_note": "用(红色混凝土粉末)烧炼成(红色染色玻璃)"
 }

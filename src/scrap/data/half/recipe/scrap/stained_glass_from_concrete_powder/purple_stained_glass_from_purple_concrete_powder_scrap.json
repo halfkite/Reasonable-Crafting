@@ -3,6 +3,11 @@
   "category": "building",
   "cookingtime": 200,
   "experience": 0.1,
-  "ingredient": {"item":"minecraft:purple_concrete_powder"},
-  "result": {"id":"minecraft:purple_stained_glass"}
+  "ingredient": {
+    "item": "minecraft:purple_concrete_powder"
+  },
+  "result": {
+    "id": "minecraft:purple_stained_glass"
+  },
+  "_note": "用(紫色混凝土粉末)烧炼成(紫色染色玻璃)"
 }

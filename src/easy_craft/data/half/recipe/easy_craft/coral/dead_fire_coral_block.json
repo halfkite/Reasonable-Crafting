@@ -3,7 +3,12 @@
   "category": "coral_block",
   "group": "dead_coral_block",
   "ingredients": [
-    {"item":"minecraft:fire_coral_block"}
+    {
+      "item": "minecraft:fire_coral_block"
+    }
   ],
-  "result": {"id":"minecraft:dead_fire_coral_block"}
+  "result": {
+    "id": "minecraft:dead_fire_coral_block"
+  },
+  "_note": "用(火珊瑚块)合成(失活的火珊瑚块)×1"
 }

@@ -3,15 +3,37 @@
   "category": "building",
   "group": "stained_glass",
   "ingredients": [
-    {"tag": "half:glasses"},
-    {"tag": "half:glasses"},
-    {"tag": "half:glasses"},
-    {"tag": "half:glasses"},
-    {"tag": "half:glasses"},
-    {"tag": "half:glasses"},
-    {"tag": "half:glasses"},
-    {"tag": "half:glasses"},
-    {"tag": "half:brown_dyes"}
+    {
+      "tag": "half:glasses"
+    },
+    {
+      "tag": "half:glasses"
+    },
+    {
+      "tag": "half:glasses"
+    },
+    {
+      "tag": "half:glasses"
+    },
+    {
+      "tag": "half:glasses"
+    },
+    {
+      "tag": "half:glasses"
+    },
+    {
+      "tag": "half:glasses"
+    },
+    {
+      "tag": "half:glasses"
+    },
+    {
+      "tag": "half:brown_dyes"
+    }
   ],
-  "result": {"count":8,"id":"minecraft:brown_stained_glass"}
+  "result": {
+    "count": 8,
+    "id": "minecraft:brown_stained_glass"
+  },
+  "_note": "用(棕色染料)将玻璃染成(棕色染色玻璃)×8"
 }

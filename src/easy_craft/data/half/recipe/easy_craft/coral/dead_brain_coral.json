@@ -3,7 +3,12 @@
   "category": "coral",
   "group": "dead_coral",
   "ingredients": [
-    {"item":"minecraft:brain_coral"}
+    {
+      "item": "minecraft:brain_coral"
+    }
   ],
-  "result": {"id":"minecraft:dead_brain_coral"}
+  "result": {
+    "id": "minecraft:dead_brain_coral"
+  },
+  "_note": "用(脑纹珊瑚)合成(失活的脑纹珊瑚)×1"
 }

@@ -3,15 +3,37 @@
   "category": "building",
   "group": "stained_terracotta",
   "ingredients": [
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "minecraft:terracotta"},
-    {"tag": "half:black_dyes"}
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "half:black_dyes"
+    }
   ],
-  "result": {"count": 8, "id": "minecraft:black_terracotta"}
+  "result": {
+    "count": 8,
+    "id": "minecraft:black_terracotta"
+  },
+  "_note": "用(黑色染料)将陶瓦染成(黑色陶瓦)×8"
 }

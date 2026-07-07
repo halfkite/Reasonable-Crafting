@@ -2,7 +2,13 @@
   "type": "minecraft:crafting_shapeless",
   "category": "building",
   "ingredients": [
-    {"item":"minecraft:dripstone_block"}
+    {
+      "item": "minecraft:dripstone_block"
+    }
   ],
-  "result": {"count":4,"id":"minecraft:pointed_dripstone"}
+  "result": {
+    "count": 4,
+    "id": "minecraft:pointed_dripstone"
+  },
+  "_note": "用(dripstone block)分解为(滴水石锥)×4"
 }

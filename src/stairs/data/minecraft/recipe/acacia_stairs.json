@@ -3,8 +3,18 @@
   "category": "building",
   "group": "wooden_stairs",
   "key": {
-    "#": {"item":"minecraft:acacia_planks"}
+    "#": {
+      "item": "minecraft:acacia_planks"
+    }
   },
-  "pattern": ["#  ","## ","###"],
-  "result": {"count":6,"id":"minecraft:acacia_stairs"}
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:acacia_stairs"
+  },
+  "_note": "用6个(金合欢木木板)合成(金合欢木楼梯)"
 }

@@ -3,11 +3,16 @@
   "category": "misc",
   "group": "dyed_candle",
   "ingredients": [
-    {"tag": "minecraft:candles"},
-    {"tag": "half:cyan_dyes"}
+    {
+      "tag": "minecraft:candles"
+    },
+    {
+      "tag": "half:cyan_dyes"
+    }
   ],
   "result": {
     "count": 1,
     "id": "minecraft:cyan_candle"
-  }
+  },
+  "_note": "用(青色染料)将蜡烛染成(青色蜡烛)×1"
 }

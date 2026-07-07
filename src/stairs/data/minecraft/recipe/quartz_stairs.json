@@ -3,11 +3,25 @@
   "category": "building",
   "key": {
     "#": [
-      {"item":"minecraft:chiseled_quartz_block"},
-      {"item":"minecraft:quartz_block"},
-      {"item":"minecraft:quartz_pillar"}
+      {
+        "item": "minecraft:chiseled_quartz_block"
+      },
+      {
+        "item": "minecraft:quartz_block"
+      },
+      {
+        "item": "minecraft:quartz_pillar"
+      }
     ]
   },
-  "pattern": ["#  ","## ","###"],
-  "result": {"count":6,"id":"minecraft:quartz_stairs"}
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:quartz_stairs"
+  },
+  "_note": "用6个(chiseled quartz block)合成(石英楼梯)"
 }

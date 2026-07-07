@@ -3,11 +3,16 @@
   "category": "building",
   "group": "wool",
   "ingredients": [
-    {"tag": "half:light_gray_dyes"},
-    {"tag": "minecraft:wool"}
+    {
+      "tag": "half:light_gray_dyes"
+    },
+    {
+      "tag": "minecraft:wool"
+    }
   ],
   "result": {
     "count": 1,
     "id": "minecraft:light_gray_wool"
-  }
+  },
+  "_note": "用(淡灰色染料)将羊毛染成(淡灰色羊毛)×1"
 }

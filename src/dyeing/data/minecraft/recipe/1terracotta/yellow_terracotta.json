@@ -3,8 +3,16 @@
   "category": "building",
   "group": "1stained_terracotta",
   "ingredients": [
-  {"tag": "minecraft:terracotta"},
-    {"tag": "half:yellow_dyes"}
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "half:yellow_dyes"
+    }
   ],
-  "result": {"count": 1, "id": "minecraft:yellow_terracotta"}
+  "result": {
+    "count": 1,
+    "id": "minecraft:yellow_terracotta"
+  },
+  "_note": "用(黄色染料)将陶瓦染成(黄色陶瓦)×1"
 }

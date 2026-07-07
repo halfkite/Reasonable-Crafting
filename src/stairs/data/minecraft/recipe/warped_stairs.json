@@ -3,8 +3,18 @@
   "category": "building",
   "group": "wooden_stairs",
   "key": {
-    "#": {"item":"minecraft:warped_planks"}
+    "#": {
+      "item": "minecraft:warped_planks"
+    }
   },
-  "pattern": ["#  ","## ","###"],
-  "result": {"count":6,"id":"minecraft:warped_stairs"}
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "minecraft:warped_stairs"
+  },
+  "_note": "用6个(诡异木木板)合成(诡异木楼梯)"
 }

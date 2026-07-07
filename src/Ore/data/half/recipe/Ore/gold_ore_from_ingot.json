@@ -1,11 +1,22 @@
 {
- "type":"minecraft:crafting_shaped",
- "category": "Ore",
- "group": "gold_ore",
- "key":{
-    "A":{"item":"minecraft:gold_ingot"},
-    "B":{"item":"minecraft:stone"}
+  "type": "minecraft:crafting_shaped",
+  "category": "Ore",
+  "group": "gold_ore",
+  "key": {
+    "A": {
+      "item": "minecraft:gold_ingot"
     },
- "pattern":[" A ","ABA"," A "],
- "result":{"id":"minecraft:gold_ore"}
+    "B": {
+      "item": "minecraft:stone"
+    }
+  },
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "result": {
+    "id": "minecraft:gold_ore"
+  },
+  "_note": "用(金锭)和(石头)合成(金矿石)"
 }

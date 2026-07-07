@@ -3,11 +3,16 @@
   "category": "building",
   "group": "carpet",
   "ingredients": [
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "half:light_gray_dyes"}
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "half:light_gray_dyes"
+    }
   ],
   "result": {
     "count": 1,
     "id": "minecraft:light_gray_carpet"
-  }
+  },
+  "_note": "用(淡灰色染料)将地毯染成(淡灰色地毯)×1"
 }

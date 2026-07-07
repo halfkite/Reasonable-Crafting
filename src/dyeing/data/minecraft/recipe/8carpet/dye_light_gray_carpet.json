@@ -3,18 +3,37 @@
   "category": "building",
   "group": "carpets",
   "ingredients": [
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "minecraft:wool_carpets"},
-    {"tag": "half:light_gray_dyes"}
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "minecraft:wool_carpets"
+    },
+    {
+      "tag": "half:light_gray_dyes"
+    }
   ],
   "result": {
     "count": 8,
     "id": "minecraft:light_gray_carpet"
-  }
+  },
+  "_note": "用(淡灰色染料)将地毯染成(淡灰色地毯)×8"
 }

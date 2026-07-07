@@ -3,9 +3,19 @@
   "category": "coral",
   "group": "coral_fan_from_block",
   "ingredients": [
-    {"item":"minecraft:brain_coral_block"},
-    {"item":"minecraft:brain_coral_block"},
-    {"item":"minecraft:brain_coral_block"}
+    {
+      "item": "minecraft:brain_coral_block"
+    },
+    {
+      "item": "minecraft:brain_coral_block"
+    },
+    {
+      "item": "minecraft:brain_coral_block"
+    }
   ],
-  "result": {"count":27,"id":"minecraft:brain_coral_fan"}
+  "result": {
+    "count": 27,
+    "id": "minecraft:brain_coral_fan"
+  },
+  "_note": "用3个(脑纹珊瑚块)分解为(脑纹珊瑚扇)×27"
 }

@@ -3,11 +3,16 @@
   "category": "building",
   "group": "wool",
   "ingredients": [
-    {"tag": "half:cyan_dyes"},
-    {"tag": "minecraft:wool"}
+    {
+      "tag": "half:cyan_dyes"
+    },
+    {
+      "tag": "minecraft:wool"
+    }
   ],
   "result": {
     "count": 1,
     "id": "minecraft:cyan_wool"
-  }
+  },
+  "_note": "用(青色染料)将羊毛染成(青色羊毛)×1"
 }

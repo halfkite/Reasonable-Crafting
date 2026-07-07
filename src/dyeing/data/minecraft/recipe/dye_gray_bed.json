@@ -3,11 +3,16 @@
   "category": "building",
   "group": "bed",
   "ingredients": [
-    {"tag": "minecraft:beds"},
-    {"tag": "half:gray_dyes"}
+    {
+      "tag": "minecraft:beds"
+    },
+    {
+      "tag": "half:gray_dyes"
+    }
   ],
   "result": {
     "count": 1,
     "id": "minecraft:gray_bed"
-  }
+  },
+  "_note": "用(灰色染料)将床染成(灰色床)×1"
 }
