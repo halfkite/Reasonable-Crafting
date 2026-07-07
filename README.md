@@ -6,9 +6,7 @@ https://github.com/XeKr-Dev/minecraft-pack-builder
 
 # Reasonable Crafting （RCraft）数据包介绍(介绍文本由AI生成)
 
-<<<<<<< HEAD
-> **Minecraft 数据包** | 作者：half_kite | 数据包版本0.8.0 | 适用版本：1.21-26.2          | 时间:2026-0707-1032 |
-=======
+> **Minecraft 数据包** | 作者：half_kite | 数据包版本0.8.0 | 适用版本：1.21-26.2 
 ---
 
 ## 🧱 楼梯合成 | Stair Recipes（58 配方）
