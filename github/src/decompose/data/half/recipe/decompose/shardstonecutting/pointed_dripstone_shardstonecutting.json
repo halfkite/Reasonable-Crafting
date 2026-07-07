@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:dripstone_block"
+  },
+  "result": {
+    "count": 4,
+    "id": "minecraft:pointed_dripstone"
+  },
+  "_note": "用切石机将(dripstone block)分解为(滴水石锥)"
+}

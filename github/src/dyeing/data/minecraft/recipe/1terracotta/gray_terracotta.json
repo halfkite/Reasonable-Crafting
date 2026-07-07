@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "1stained_terracotta",
+  "ingredients": [
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "half:gray_dyes"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:gray_terracotta"
+  },
+  "_note": "用(灰色染料)将陶瓦染成(灰色陶瓦)×1"
+}

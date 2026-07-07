@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "bed",
+  "ingredients": [
+    {
+      "tag": "minecraft:beds"
+    },
+    {
+      "tag": "half:pink_dyes"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:pink_bed"
+  },
+  "_note": "用(粉红色染料)将床染成(粉红色床)×1"
+}

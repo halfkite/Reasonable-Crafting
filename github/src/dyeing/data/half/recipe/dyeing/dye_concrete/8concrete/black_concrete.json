@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "8concrete_from_other_concrete",
+  "ingredients": [
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:concretes"
+    },
+    {
+      "tag": "half:black_dyes"
+    }
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:black_concrete"
+  },
+  "_note": "用(黑色染料)将(混凝土)染成(黑色混凝土)×8"
+}

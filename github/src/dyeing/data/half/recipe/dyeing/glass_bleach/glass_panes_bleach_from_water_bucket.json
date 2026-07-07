@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "stained_glass_pane",
+  "ingredients": [
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "tag": "half:glass_panes"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    }
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:glass_pane"
+  },
+  "_note": "用水桶/药水将染色玻璃板脱色为(玻璃板)"
+}

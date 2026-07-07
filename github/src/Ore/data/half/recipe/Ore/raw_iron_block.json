@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "Ore",
+  "group": "raw_iron_block",
+  "key": {
+    "A": {
+      "tag": "half:ore_raw"
+    },
+    "B": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "result": {
+    "id": "minecraft:raw_iron_block"
+  },
+  "_note": "用(ore raw)和(铁块)合成(粗铁块)"
+}
