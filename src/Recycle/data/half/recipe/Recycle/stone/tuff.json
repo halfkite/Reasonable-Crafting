@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "Recycle_stone",
+  "ingredients": [
+    {"item": "minecraft:andesite"},
+    {"item": "minecraft:gravel"}
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:tuff"
+  },
+  "_note": "用(安山岩)和(沙砾)-合成(凝灰岩)*2"
+}

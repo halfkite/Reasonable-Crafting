@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "Recycle_stone",
+  "key": {
+    "A": {
+      "tag": "half:deepslate_or_cobbled_deepslate"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:reinforced_deepslate"
+  },
+  "_note": "用(石头/深板岩)*9合成(强化深板岩)"
+}

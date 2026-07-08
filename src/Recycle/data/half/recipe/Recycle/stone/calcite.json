@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "Recycle_stone",
+  "ingredients": [
+    {"item": "minecraft:andesite"},
+    {"item": "minecraft:diorite"},
+    {"item": "minecraft:diorite"}
+  ],
+  "result": {
+    "count": 3,
+    "id": "minecraft:calcite"
+  },
+  "_note": "用(安山岩)和(闪长岩)*2-合成(方解石)*3"
+}

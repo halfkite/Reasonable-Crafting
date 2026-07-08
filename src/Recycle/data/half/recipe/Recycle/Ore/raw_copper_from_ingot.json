@@ -7,11 +7,11 @@
       "item": "minecraft:copper_ingot"
     },
     {
-      "tag": "half:ore_raw"
+      "tag": "half:deepslate_or_stone"
     }
   ],
   "result": {
     "id": "minecraft:raw_copper"
   },
-  "_note": "用(铜锭)和(粗矿石)合成(粗铜)"
+  "_note": "用(铜锭)和(石头/深板岩)合成(粗铜)"
 }

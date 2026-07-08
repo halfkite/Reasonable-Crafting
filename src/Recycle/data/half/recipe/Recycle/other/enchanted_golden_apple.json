@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "Recycle_other",
+  "key": {
+    "A": {
+      "item": "minecraft:gold_block"
+    },
+    "B": {
+      "item": "minecraft:apple"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:enchanted_golden_apple"
+  },
+  "_note": "用(金块)*9和(苹果)合成(附魔金苹果)"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "Recycle_stone",
+  "key": {
+    "A": {
+      "item": "minecraft:cobblestone"
+    },
+    "B": {
+      "item": "minecraft:popped_chorus_fruit"
+    }
+  },
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:end_stone"
+  },
+  "_note": "用(圆石)*4和(爆裂紫颂果)合成(末地石)*4"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "Recycle_stone",
+  "key": {
+    "A": {
+      "item": "minecraft:cobblestone"
+    },
+    "B": {
+      "item": "minecraft:nether_wart"
+    }
+  },
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:netherrack"
+  },
+  "_note": "用(圆石)*4和(下界疣)合成(下界岩)*4"
+}

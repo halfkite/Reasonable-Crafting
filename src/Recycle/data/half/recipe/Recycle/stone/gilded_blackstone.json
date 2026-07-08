@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "Recycle_stone",
+  "key": {
+    "A": {
+      "item": "minecraft:gold_nugget"
+    },
+    "B": {
+      "item": "minecraft:blackstone"
+    }
+  },
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "result": {
+    "id": "minecraft:gilded_blackstone"
+  },
+  "_note": "用(金粒)和(黑石)合成(镶金黑石)"
+}
