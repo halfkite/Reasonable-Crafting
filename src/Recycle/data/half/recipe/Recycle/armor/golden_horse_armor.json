@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {"item": "minecraft:leather"},
+    "B": {"item": "minecraft:gold_ingot"}
+  },
+  "pattern": [
+    "B B",
+    "AAA",
+    "B B"
+  ],
+  "result": {
+    "id": "minecraft:golden_horse_armor"
+  },
+  "_note": "用(金锭)*4+(皮革)*2合成(金马凯)"
+}

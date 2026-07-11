@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {"item": "minecraft:sulfur"},
+    {"tag": "half:red_dyes"}
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:cinnabar"
+  },
+  "_note": "用(红色染料)将(硫磺)*2染成(朱砂)×2"
+}

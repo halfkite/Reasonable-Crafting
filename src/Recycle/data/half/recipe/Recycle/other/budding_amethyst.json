@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "A": {"item": "minecraft:amethyst_block"},
+    "B": {"item": "minecraft:amethyst_shard"}
+  },
+  "pattern": [
+    "BAB",
+    "AAA",
+    "BAB"
+  ],
+  "result": {
+    "id": "minecraft:budding_amethyst"
+  },
+  "_note": "用(紫水晶块)*5+(紫水晶碎片)*4合成(紫水晶母岩)"
+}
+
