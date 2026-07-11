@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "decompose_mushroom",
+  "ingredients": 
+  [{"item": "minecraft:brown_mushroom_block"}],
+  "result": {
+    "count": 4,
+    "id": "minecraft:brown_mushroom"
+  },
+  "_note": "用(棕色蘑菇块)合成(棕色蘑菇)*4"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "Recycle_mushroom",
+  "key": {
+    "A": {
+      "item": "minecraft:red_mushroom"
+    }
+  },
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:red_mushroom_block"
+  },
+  "_note": "用(红蘑菇)*4合成(红蘑菇块)"
+}
