@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {"item": "minecraft:leather"},
+    "B": {"item": "minecraft:iron_ingot"}
+  },
+  "pattern": [
+    "AAB",
+    "BBB"
+  ],
+  "result": {
+    "id": "minecraft:iron_nautilus_armor"
+  },
+  "_note": "用(铁锭)*4+(皮革)*2合成(铁鹦鹉螺铠)"
+}

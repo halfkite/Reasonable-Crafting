@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {"item": "minecraft:leather"},
+    "B": {"item": "minecraft:copper_ingot"}
+  },
+  "pattern": [
+    "AAB",
+    "BBB"
+  ],
+  "result": {
+    "id": "minecraft:copper_nautilus_armor"
+  },
+  "_note": "用(铜锭)*4+(皮革)*2合成(铜鹦鹉螺铠)"
+}

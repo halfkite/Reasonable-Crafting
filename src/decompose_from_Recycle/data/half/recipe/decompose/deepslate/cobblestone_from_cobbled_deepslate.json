@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "decompose_deepslate",
+  "category": "building",
   "key": {
     "A": {
       "item": "minecraft:cobbled_deepslate"

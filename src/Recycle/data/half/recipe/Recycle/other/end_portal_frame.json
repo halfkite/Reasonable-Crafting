@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:ender_eye"
+    },
+    "A": {
+      "item": "minecraft:end_stone"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:end_portal_frame"
+  },
+  "_note": "用(末影之眼)*9和(末地石)合成(末地传送门门框架)"
+}

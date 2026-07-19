@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "Recycle_mushroom",
+  "category": "equipment",
   "key": {
     "A": {"item": "minecraft:phantom_membrane"},
     "B": {"item": "minecraft:leather"},

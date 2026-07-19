@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "Recycle_stone",
+  "category": "misc",
   "key": {
     "A": {
       "item": "minecraft:gold_nugget"

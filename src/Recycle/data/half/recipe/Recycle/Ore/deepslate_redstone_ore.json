@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "Recycle_Ore",
+  "category": "redstone",
   "group": "redstone_ore",
   "key": {
     "A": {

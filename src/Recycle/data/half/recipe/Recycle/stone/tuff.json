@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "category": "Recycle_stone",
+  "category": "building",
   "ingredients": [
     {"item": "minecraft:andesite"},
     {"item": "minecraft:gravel"}

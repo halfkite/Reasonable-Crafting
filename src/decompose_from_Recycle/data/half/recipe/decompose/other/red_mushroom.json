@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "category": "decompose_mushroom",
+  "category": "misc",
   "ingredients": 
   [{"item": "minecraft:red_mushroom_block"}],
   "result": {

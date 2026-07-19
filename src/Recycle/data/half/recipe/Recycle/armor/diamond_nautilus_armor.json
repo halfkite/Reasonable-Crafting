@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {"item": "minecraft:leather"},
+    "B": {"item": "minecraft:diamond"}
+  },
+  "pattern": [
+    "AAB",
+    "BBB"
+  ],
+  "result": {
+    "id": "minecraft:diamond_nautilus_armor"
+  },
+  "_note": "用(钻石)*4+(皮革)*2合成(钻石鹦鹉螺铠)"
+}

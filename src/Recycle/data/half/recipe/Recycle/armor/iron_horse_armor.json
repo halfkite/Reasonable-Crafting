@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "misc",
+  "category": "equipment",
   "key": {
     "A": {"item": "minecraft:leather"},
     "B": {"item": "minecraft:iron_ingot"}
@@ -15,4 +15,3 @@
   },
   "_note": "用(铁锭)*4+(皮革)*2合成(铁马凯)"
 }
-

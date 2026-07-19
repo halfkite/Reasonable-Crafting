@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "Recycle_Ore",
+  "category": "building",
   "group": "lapis_ore",
   "key": {
     "A": {

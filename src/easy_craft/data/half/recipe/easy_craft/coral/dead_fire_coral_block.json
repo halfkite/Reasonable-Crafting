@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "category": "coral_block",
+  "category": "building",
   "group": "dead_coral_block",
   "ingredients": [
     {

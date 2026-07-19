@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {"item": "minecraft:leather"},
+    "B": {"item": "minecraft:gold_ingot"}
+  },
+  "pattern": [
+    "AAB",
+    "BBB"
+  ],
+  "result": {
+    "id": "minecraft:golden_nautilus_armor"
+  },
+  "_note": "用(金锭)*4+(皮革)*2合成(金鹦鹉螺铠)"
+}

@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "Recycle_Ore",
+  "category": "building",
   "group": "gold_ore",
   "key": {
     "A": {

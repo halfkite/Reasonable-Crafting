@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {"item": "minecraft:leather"},
+    "B": {"item": "minecraft:copper_ingot"}
+  },
+  "pattern": [
+    "B B",
+    "AAA",
+    "B B"
+  ],
+  "result": {
+    "id": "minecraft:copper_horse_armor"
+  },
+  "_note": "用(铜锭)*4+(皮革)*3合成(铜马铠)"
+}
